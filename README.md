@@ -79,7 +79,7 @@ th {
 
 
  <div class="container">
-        <div class="item">All brothers support me ,since childhood so,thank you so...<br>Mantu(vijay)</div>
+        <div class="item">Welcome to my website</div>
     </div>
 
  <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
@@ -179,7 +179,7 @@ th {
  <hr>
 <hr>	
   <tr>
-    <th scope="row">All my brothers support me since childhood.<br>thank you so much..<br>happy brother's day</th> 
+    <th scope="row">All my brothers support me since childhood.<br>thank you so much..<br>happy brother's day(vijay)</th> 
     <td><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
 	  
   </tr>
