@@ -210,7 +210,7 @@ th {
       <option>2</option>
       <option>3</option>
       <option>4</option>
-      <option>5</option>
+    
     </select>
   </div>
   <div class="form-group">
@@ -218,7 +218,7 @@ th {
     <select multiple class="form-control" id="exampleFormControlSelect2">
       <option>1</option>
       <option>2</option>
-      <option>3</option>
+     
       <option>4</option>
       <option>5</option>
     </select>
@@ -232,6 +232,20 @@ th {
   <div class="form-group">
     <label for="exampleFormControlFile1">Example file input</label>
     <input type="file" class="form-control-file" id="exampleFormControlFile1">
+  </div>
+</form>
+<form>
+  <div class="form-group row">
+    <label for="staticEmail" class="col-sm-2 col-form-label">Email</label>
+    <div class="col-sm-10">
+      <input type="text" readonly class="form-control-plaintext" id="staticEmail" value="email@example.com">
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+    </div>
   </div>
 </form>
 
