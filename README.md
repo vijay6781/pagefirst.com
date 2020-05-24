@@ -73,12 +73,15 @@ th {
 	padding: 20px;
 	margin: auto;
 }
-
+.cont{
+border:2px solid blue;
+}
 
 </style>
 
 
 <div class="container1">
+<div class="cont">
   <div class="row">
     <div class="col-lg-4">
       India corona case
@@ -90,6 +93,7 @@ th {
       Bihar corona news
     </div>
   </div>
+</div>
 </div>
 
  <div class="containerv">
