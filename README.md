@@ -77,8 +77,9 @@ th {
 
 </style>
 
+
  <div class="container">
-        <div class="item">Welcome to my website</div>
+        <div class="item">All brothers support me each and every time since childhood so,I pray to god our brotherhood always continue<br>------Mantu(vijay)</div>
     </div>
 
  <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
