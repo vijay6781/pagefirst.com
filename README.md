@@ -84,10 +84,10 @@ th {
       India corona case
     </div>
     <div class="col-lg-4">
-      Bihar Corona news
+      Bihar corona news
     </div>
 	  <div class="col-lg-4">
-      Bihar Corona news
+      Bihar corona news
     </div>
   </div>
 </div>
