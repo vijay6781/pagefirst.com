@@ -179,7 +179,7 @@ th {
  <hr>
 <hr>	
   <tr>
-    <th scope="row">For buy book</th> 
+    <th scope="row">Thank you so much my all brothers..<br>happy brother's day</th> 
     <td><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
 	  
   </tr>
