@@ -80,10 +80,13 @@ th {
 
 <div class="container1">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-lg-2">
       India corona case
     </div>
-    <div class="col-sm">
+    <div class="col-lg-2">
+      Bihar Corona news
+    </div>
+	  <div class="col-lg-2">
       Bihar Corona news
     </div>
   </div>
