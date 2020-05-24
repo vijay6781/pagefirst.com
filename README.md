@@ -78,6 +78,20 @@ th {
 </style>
 
 
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      India corona case
+    </div>
+    <div class="col-sm">
+      Bihar Corona news
+    </div>
+    <div class="col-sm">
+      Sports news
+    </div>
+  </div>
+</div>
+
  <div class="container">
         <div class="item">Welcome to my website</div>
     </div>
