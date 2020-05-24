@@ -78,7 +78,7 @@ th {
 </style>
 
 
-<div class="container">
+<div class="container1">
   <div class="row">
     <div class="col-sm">
       India corona case
@@ -204,7 +204,7 @@ th {
  
 ##         WEBSITE WILL BE UPDATE... 
 
- <div class="container">
+ <div class="containerv">
         <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona cases</a></div>
     </div>
   <div class="container1">
