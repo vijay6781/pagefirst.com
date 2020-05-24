@@ -86,9 +86,6 @@ th {
     <div class="col-sm">
       Bihar Corona news
     </div>
-    <div class="col-sm">
-      Sports news
-    </div>
   </div>
 </div>
 
