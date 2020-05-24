@@ -81,19 +81,17 @@ border:2px solid blue;
 
 
 <div class="container1">
-<div class="cont">
   <div class="row">
-    <div class="col-lg-4">
+    <div class="col-lg-4 cont">
       India corona case
     </div>
-    <div class="col-lg-4">
+    <div class="col-lg-4 cont">
       Bihar corona news
     </div>
-	  <div class="col-lg-4">
+	  <div class="col-lg-4 cont">
       Bihar corona news
     </div>
   </div>
-</div>
 </div>
 
  <div class="containerv">
