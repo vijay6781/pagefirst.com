@@ -93,7 +93,7 @@ border:2px solid blue;
     </div>
   </div>
 </div>
-<div class="jumbotron text-center">
+
  <div class="containerv">
         <div class="item">Welcome to my website</div>
     </div>
@@ -108,7 +108,7 @@ border:2px solid blue;
                             
                 This Website Created For Student Help  
 	 
-                
+  <div class="jumbotron text-center">            
 <h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon</h3>		
  <div class="tss"> 
 <table>
