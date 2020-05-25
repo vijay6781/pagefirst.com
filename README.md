@@ -102,11 +102,11 @@ border:2px solid blue;
 
 <h3 style="color:blue;margin:auto;font-size:20px"> This Website <span style="color:rgb(255,70,60)"> Helps Student</span>.This is good initiative.
  As we know that we all have old as well new book which may be useful for student.</h3>
-
+ <div class="jumbotron text-center">  
  
-                             NOTICE
-                            
-                This Website Created For Student Help  
+  <h2 style="color:rgb(200,90,80)> NOTICE</h2>
+  <h4 style="color:rgb(0,0,200)><br>This Website Created For Student Help</h4>                           
+                
 	 
   <div class="jumbotron text-center">            
 <h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon</h3>		
@@ -145,7 +145,7 @@ border:2px solid blue;
  
 </tr>
 </table>
-</div>
+
 <hr>
 </div>
 <div class="tss">
