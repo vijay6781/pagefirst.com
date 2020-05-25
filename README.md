@@ -104,8 +104,8 @@ border:2px solid blue;
  As we know that we all have old as well new book which may be useful for student.</h3>
  
  <div class="jumbotron text-center">  
-  <h2 class="display-3" text-info> NOTICE</h2>
-  <h4 style="color:rgb(0,0,200)><br>This Website Created For Student Help</h4>                           
+  <h3 class="display-3" text-info> NOTICE</h3>
+   <h4 class="display-4" text-info><br>This Website Created For Student Help</h4>                           
                 
 	 
   </div>     
