@@ -276,3 +276,8 @@ border:2px solid blue;
   <path d="M5 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
 </svg>
 
+
+<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="ggy" class="img-rounded">
+<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="dfd" class="img-circle">
+<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="gyyuf" class="img-thumbnail">
+
