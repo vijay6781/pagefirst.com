@@ -266,6 +266,12 @@ border:2px solid blue;
   </div>
 </form>
 
+
+<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="ggy" class="img-rounded">
+<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="dfd" class="img-circle">
+<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="gyyuf" class="img-thumbnail">
+
+
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -277,7 +283,4 @@ border:2px solid blue;
 </svg>
 
 
-<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="ggy" class="img-rounded">
-<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="dfd" class="img-circle">
-<img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="gyyuf" class="img-thumbnail">
 
