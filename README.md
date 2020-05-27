@@ -17,12 +17,9 @@
 <div class="container">
 	
 	<div class="mx-auto d-block">
-  <h2><span style="color:rgb(255, 0, 0); text:center;">BSEB RESULT</span></span></h2>
+  <h2><span style="color:rgb(255, 0, 0); text:center;">BSEB RESULT</span></h2>
       
   <img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" class="img-circle" alt="Cinque Terre" width="150" height="150"> 
   <h2 class="display-3"><span style="color:blue">MARKS: 90.4%</span></h2>
  <h4 class="display-4"><span style="color:rgb(255, 25, 0)"><em>Discovery coaching centre<em></span></h4>
-   </div>  
-</div>
-</body>
-</html>
+ 
