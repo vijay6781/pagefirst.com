@@ -265,7 +265,21 @@ border:2px solid blue;
     </div>
   </div>
 </form>
-
+<div class="jumbotron">
+  	 <div class="container">
+  <div class="btn-group btn-group-justified" role="group" aria-label="...">
+  <div class="btn-group" role="group">
+    <button type="button" class="btn btn-default">Left</button>
+  </div>
+  <div class="btn-group" role="group">
+    <button type="button" class="btn btn-default">Middle</button>
+  </div>
+  <div class="btn-group" role="group">
+    <button type="button" class="btn btn-default">Right</button>
+  </div>
+</div>
+</div>
+</div>
 
 <img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="ggy" class="img-rounded">
 <img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="dfd" class="img-circle">
