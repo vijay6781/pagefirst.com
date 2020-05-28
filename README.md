@@ -41,6 +41,7 @@ table{
      align:center;
    teble-align:center;
    text-align:center;
+   margin:1.99rem;
 }
 
 body{
