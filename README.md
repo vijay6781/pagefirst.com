@@ -55,11 +55,12 @@ td,
 th {
     border: 5px solid rgb(190, 255, 190);
     padding: 20px;
+    margin-right: 150px;
    }
   th[scope="col"] {
   background-color:rgba(2,220,2,.8);
    color:#fff;
-   margin:100px;
+   margin-right: 150px;
 }
  th[scope="row"] {
     text-align: center;
@@ -73,7 +74,7 @@ th {
   height: 60px;
   background:rgba(100,255,110,.9);
   padding: 20px;
-  margin: auto;
+   margin-right: 150px;
 }
 .cont{
 border:2px solid blue;
