@@ -297,6 +297,123 @@ border:2px solid blue;
 </div>
 </div>
 
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+     <table>
+  
+<tr>
+  <th scope="col"> RESULT</th>
+        <th scope="col"> Link</th>
+      
+</tr>
+
+<tr>
+ <td> Bihar Board 10th Result </td>
+ <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
+  
+</tr>
+
+<tr>
+  
+ <td> Bihar Board 12th Result </td>
+ <td><a href="http://onlinebseb.in/">click here</a></td>
+ 
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+ <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
+ 
+</tr>
+</table>
+    </div>
+    <div class="col-sm-4">
+     <table>
+  
+<tr>
+  <th scope="col"> RESULT</th>
+        <th scope="col"> Link</th>
+      
+</tr>
+
+<tr>
+ <td> Bihar Board 10th Result </td>
+ <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
+  
+</tr>
+
+<tr>
+  
+ <td> Bihar Board 12th Result </td>
+ <td><a href="http://onlinebseb.in/">click here</a></td>
+ 
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+ <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
+ 
+</tr>
+</table>
+    </div>
+    <div class="col-sm-4">
+     <table>
+  
+<tr>
+  <th scope="col"> RESULT</th>
+        <th scope="col"> Link</th>
+      
+</tr>
+
+<tr>
+ <td> Bihar Board 10th Result </td>
+ <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
+  
+</tr>
+
+<tr>
+  
+ <td> Bihar Board 12th Result </td>
+ <td><a href="http://onlinebseb.in/">click here</a></td>
+ 
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+ <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
+ 
+</tr>
+</table>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+
 <img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="ggy" class="img-rounded">
 <img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="dfd" class="img-circle">
 <img src="https://yt3.ggpht.com/a-/AOh14GglSeq-yRuqBVJFAik5dIJPERbLX7v1_2QkOsqUyW4=s88-c-k-c0xffffffff-no-rj-mo" alt="gyyuf" class="img-thumbnail">
