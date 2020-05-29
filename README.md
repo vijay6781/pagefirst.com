@@ -104,7 +104,7 @@ border:2px solid blue;
     <div class="col-lg-2 cont pt-2">
       Bihar corona news
     </div>
-    <div class="col-lg-2 cont">
+    <div class="col-lg-2 cont bg-primary">
       Bihar corona news
     </div>
   </div>
