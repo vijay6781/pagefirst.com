@@ -60,7 +60,7 @@ th {
   th[scope="col"] {
   background-color:rgba(2,220,2,.8);
    color:#fff;
-   margin-right: 150px;
+   margin-right: 1500px;
 }
  th[scope="row"] {
     text-align: center;
@@ -74,7 +74,7 @@ th {
   height: 60px;
   background:rgba(100,255,110,.9);
   padding: 20px;
-   margin-right: 150px;
+  
 }
 .cont{
 border:2px solid blue;
