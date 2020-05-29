@@ -299,7 +299,7 @@ border:2px solid blue;
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4 col-md-6">
+    <div class="col-sm-4">
      <table>
   
 <tr>
@@ -335,7 +335,7 @@ border:2px solid blue;
 </tr>
 </table>
     </div>
-    <div class="col-sm-4 col-md-6">
+    <div class="col-sm-4">
      <table>
   
 <tr>
@@ -371,7 +371,7 @@ border:2px solid blue;
 </tr>
 </table>
     </div>
-   <div class="col-sm-4 col-md-6">
+   <div class="col-sm-4">
      <table>
   
 <tr>
