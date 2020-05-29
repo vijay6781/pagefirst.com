@@ -59,6 +59,7 @@ th {
   th[scope="col"] {
   background-color:rgba(2,220,2,.8);
    color:#fff;
+   margin:100px;
 }
  th[scope="row"] {
     text-align: center;
