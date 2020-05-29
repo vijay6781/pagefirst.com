@@ -95,7 +95,8 @@ border:2px solid blue;
 
 
 [!image](https://photos.app.goo.gl/1e89xXCwayZTwUHf6)
-<div class="container1">
+
+<div class="container">
   <div class="row">
     <div class="col-lg-4 cont">
       India corona case
