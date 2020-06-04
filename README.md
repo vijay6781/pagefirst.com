@@ -269,8 +269,10 @@ footer {
 <div class="text-center">
   <h3><span style="text-align:center; color:green">website will be update</span></h3>
   </div>
-  <p><h5><span style="text-align:center;color:blue">Email:vjhelpcare@gmail.com</span></h5></p>
-
+  <div class="text-center">
+  <h5><span style="text-align:center;color:blue">Email: vjhelpcare@gmail.com</span></h5>
+  <h4><span style="text-align:center;color:rgb(200,90,70)">Thank You..</span></h4>
+  </div>
          
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
    
