@@ -236,7 +236,7 @@ footer {
 </tr>
 <tbody class="tbody" >
 <tr>
- <td> Bihar Board 10th Result </td>
+ <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
  
   
 </tr>
