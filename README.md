@@ -46,6 +46,12 @@ footer {
       
 </tr>
 <tbody class="tbody" >
+  
+    <tr>
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>
+ 
+  
+</tr>
   <tr>
  <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a><span style="color:red">Extended</span></td>
  
@@ -89,6 +95,9 @@ footer {
   <th scope="col" style="background:#55ff00">Bihar/up Job</th>     
 </tr>
 <tbody class="tbody" >
+      <tr>
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>  
+</tr>
 <tr>
  <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td> 
 </tr>
