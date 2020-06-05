@@ -272,6 +272,9 @@ footer {
     </div>
   </div>
 </div>
+<div class="text-center">
+  <button type="button" class="btn btn-success"><a href="photos.html">My Gallery</a></button>
+ </div>
 <div class="text-center mt-3">
 <h5><a href="https://vijay6781.github.io/Lifelong/"><span style="text-align:center">Student Book Help</span></a></h5>
 </div>
