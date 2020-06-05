@@ -272,7 +272,7 @@ footer {
     </div>
   </div>
 </div>
-<div class="text-center mt-3">
+<div class="text-center mt-2">
   <h3><span class="badge badge-secondary"><a href="photos.html">My Gallery</a></span></h3>
   </div>
 <div class="text-center mt-3">
