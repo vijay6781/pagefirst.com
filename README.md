@@ -48,6 +48,10 @@ footer {
 <tbody class="tbody" >
   
     <tr>
+ <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:red">New</span></td> 
+</tr>
+  
+    <tr>
  <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>
  
   
