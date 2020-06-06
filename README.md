@@ -30,6 +30,23 @@ footer {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
+   <nav class="navbar navbar-expand-md bg-success navbar-dark mt-1 mb-1">
+  <a class="navbar-brand" href="#">Home</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona Case</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona News</a>
+      </li>
+    </ul>
+  </div>  
+</nav>
+
   
   <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-1"></div>
