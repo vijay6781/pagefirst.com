@@ -36,7 +36,7 @@ footer {
 </div>
   
   
-  <nav class="navbar navbar-expand-md navbar-dark mt-1 mb-1" style="background:rgb(77, 77, 255)">
+  <nav class="navbar navbar-expand-md navbar-dark mt-2" style="background:rgb(77, 77, 255)">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
@@ -55,7 +55,7 @@ footer {
 
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
-    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">     
+    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-2">     
   <table >
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
