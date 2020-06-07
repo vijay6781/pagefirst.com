@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Okay Result
 description: > # this means to ignore newlines until "show_excerpts:"
- okay result,sarkari result,sarkari results.
+www.okayresult.com
 google_analytics: UA-NNNNNNNN-N
 plugins:
  - jekyll-feed
