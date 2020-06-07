@@ -3,3 +3,6 @@ title: Okay Result
 description: > # this means to ignore newlines until "show_excerpts:"
  okay result,sarkari result,sarkari results.
 google_analytics: UA-NNNNNNNN-N
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
