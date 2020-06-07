@@ -1,26 +1,2 @@
 theme: jekyll-theme-cayman
-name: luaphacim site
 title: Okay Result
-description: > # this means to ignore newlines until "show_excerpts:"
-  Sarkari results srkari job.
-show_excerpts: false # set to true to show excerpts on the homepage
-google_analytics: UA-NNNNNNNN-N
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
- google_analytics: UA-NNNNNNNN-N
- language: ruby
-rvm: 2.5
-
-before_install:
-  - gem update --system --no-document
-  - gem install bundler --no-document
-
-script: script/cibuild
-
-env:
-  matrix:
-    - JEKYLL_VERSION="~> 3.8"
-    - JEKYLL_VERSION="~> 4.0"
-
-
