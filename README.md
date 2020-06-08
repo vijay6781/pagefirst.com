@@ -90,12 +90,9 @@ footer {
  <td><a href="http://www.bpsc.bih.nic.in/Advt/NB-2020-05-30-01.pdf">BPSC Assistant 2018 Revised Result</a></td>
 
 </tr>
+  <tr>
+ <td><a href="biharboard2020.html"> Bihar Board 12th Result 2020</a></td>
 
-<tr>
-  
- <td>  CBSE 10th Result</td>
- 
- 
 </tr>
 <tr>
 
