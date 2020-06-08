@@ -195,6 +195,11 @@ footer {
       
 </tr>
 <tbody class="tbody" >
+   <tr>
+ <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>
+ 
+  
+</tr>
   <tr>
  <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
  
