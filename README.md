@@ -103,11 +103,6 @@ footer {
 
 </tr>
 
-<tr>
-
- <td>  CBSE 12th Result</td>
-
-</tr>
 </tbody>
 </table >
     </div>
@@ -157,12 +152,6 @@ footer {
  
  
 </tr>
-<tr>
-
- <td>  CBSE 12th Result</td>
-
- 
-</tr>
 
 </tbody>
 </table>
@@ -192,12 +181,7 @@ footer {
 
  
 </tr>
-<tr>
 
- <td>  CBSE 12th Result</td>
-
- 
-</tr>
 </tbody>
 </table >
     </div>
