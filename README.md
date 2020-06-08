@@ -60,6 +60,53 @@ footer {
 
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
+     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+     <table >
+  
+<tr>
+  <th scope="col" style="background:#55ff00">Result</th>
+        
+      
+</tr>
+<tbody class="tbody" >
+   <tr>
+ <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>
+ 
+  
+</tr>
+  <tr>
+ <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
+ 
+  
+</tr>
+<tr>
+ <td><a href="index1.html">Bihar 10th Result</a></td>
+ 
+  
+</tr>
+
+<tr>
+  
+ <td><a href="http://www.bpsc.bih.nic.in/Advt/NB-2020-05-30-01.pdf">BPSC Assistant 2018 Revised Result</a></td>
+
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ 
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+</tr>
+</tbody>
+</table >
+    </div>
+    
+    
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">     
   <table >
 <tr>
