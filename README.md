@@ -94,6 +94,15 @@ footer {
  <td><a href="biharboard2020.html"> Bihar Board 12th Result 2020</a></td>
 
 </tr>
+ <tr>
+ <td><a href="http://cbseresults.nic.in/class12/class12th19.htm"> CBSE 12th Result 2020</a></td>
+
+</tr>
+<tr>
+ <td><a href="http://cbseresults.nic.in/class10/class10th19.htm"> CBSE 10th Result 2020</a></td>
+
+</tr>
+
 <tr>
 
  <td>  CBSE 12th Result</td>
