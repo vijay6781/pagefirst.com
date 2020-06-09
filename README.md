@@ -301,11 +301,11 @@ footer {
      (adsbygoogle = window.adsbygoogle ||  []).push({});
 </script>
 
- <div class="row text-center mt-3 ml-4 mr-4">
-  <div class="col-sm-8 col-xs-8 col-md-8 col-lg-8"> 
+  <div class="row text-center mx-auto">
+    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-4 mr-4 mb-4 mt-4"> 
 <div class="content_area">
 <div class="container">
-  <h2 class="heading text-success"><span style="background:rgb(0, 230, 0)">Okay Result</span></h2>
+  <h2 class="heading text-danger"><span style="background:rgb(0, 230, 0)">Okay Result</span></h2>
 <p> Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result.</p>
   
   </div>
