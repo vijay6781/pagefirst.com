@@ -301,15 +301,13 @@ footer {
      (adsbygoogle = window.adsbygoogle ||  []).push({});
 </script>
 
-  <div class="row text-center mx-auto">
+ <div class="row text-center mx-auto">
     <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-4 mr-4 mb-4 mt-4"> 
 <div class="content_area">
 <div class="container">
-  <h2 class="heading text-danger"><span style="background:rgb(0, 230, 0)">Okay Result</span></h2>
-<p> Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result.</p>
-  
-  </div>
-  </div>
+ <div class="bg-success"><h2 class="heading">Okay Result</h2></div>
+<p>Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. </p>
+</div> </div>
   
   
 <div class="text-center mt-2">
