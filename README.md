@@ -302,7 +302,7 @@ footer {
 </script>
 
  <div class="row text-center mx-auto">
-    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-4 mr-4 mb-4 mt-4"> 
+    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-1 mr-1 mb-4 mt-4"> 
 <div class="content_area">
 <div class="container">
  <div class=" text-danger"><h2 style="background:rgb(20,255,40)">Okay Result</h2></div>
@@ -324,7 +324,8 @@ footer {
   <h5><span style="text-align:center;color:blue">contact us: vjhelpcare@gmail.com</span></h5>
   <h4><span style="text-align:center;color:rgb(200,90,70)">Thank You..</span></h4>
   </div>
-         
+   </div>
+   </div>
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
    
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
