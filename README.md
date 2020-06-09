@@ -68,7 +68,7 @@ footer {
   
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
-     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-2">
+     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-3">
      <table >
   
 <tr>
@@ -116,7 +116,7 @@ footer {
     </div>
     
     
-    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">     
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-3">     
   <table >
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
@@ -164,7 +164,7 @@ footer {
 </tbody>
 </table>
     </div>
-    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-3 mt-4">
+    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-3 mt-3">
      <table >
   
 <tr>
@@ -193,7 +193,7 @@ footer {
 </tbody>
 </table >
     </div>
-   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-3">
      <table >
   
 <tr>
@@ -232,7 +232,7 @@ footer {
 
  </div>
  
-   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-3">
      <table >
   
 <tr>
@@ -267,7 +267,7 @@ footer {
 </tbody>
 </table >
     </div>
-   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-3">
      <table >
   
 <tr>
