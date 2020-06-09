@@ -59,6 +59,13 @@ footer {
   </div>  
 </nav>
 
+<div class="text-center mt-2">
+  
+    <h3>
+<span class="badge badge-primary bg-warning mr-1"><a href="photos.html">My Gallery</a></span><span class="badge badge-success bg-pink"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(230,25,80)">India Corona</span></a></span><span class="badge badge-danger bg-red mr-1"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms"> Bihar Corona</a></span><span class="badge badge-primary bg-warning mr-1"><a href="https://vijay6781.github.io/Lifelong/">Book Help</a></span></h3>
+  </div>
+
+
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
