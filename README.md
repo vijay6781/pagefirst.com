@@ -306,7 +306,7 @@ footer {
     <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-1 mr-1 mb-4 mt-4"> 
 <div class="content_area">
 <div class="container">
- <div><span style="text-align:center;white"><h2 style="background:rgba(255, 0, 102,0.6)">Okay Result</h2></span></div>
+ <h2 style="background:rgba(255, 0, 102,0.8)"><sapn style="color:rgb(255,255,255)">Okay Result</sapn></h2>
 <p>Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. </p>
 </div> 
       </div>
