@@ -300,7 +300,7 @@ footer {
 <script type="text/javascript">
      (adsbygoogle = window.adsbygoogle ||  []).push({});
 </script>
- <div class="row text-center mx-auto">
+ <div class="row text-center mt-3 ml-4 mr-4">
 <div class="content_area">
 <div class="container">
   <h2 class="heading text-success"><span style="background:rgb(0, 230, 0)">Okay Result</span></h2>
