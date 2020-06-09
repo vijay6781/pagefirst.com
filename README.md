@@ -302,12 +302,13 @@ footer {
      (adsbygoogle = window.adsbygoogle ||  []).push({});
 </script>
 
- <div class="row text-center mx-auto">
-    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-1 mr-1 mb-4 mt-4"> 
+ <div class="row text-center">
+    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 mb-4 mt-4"> 
 <div class="content_area">
-<div class="container">
- <h2 style="background:rgba(255, 0, 102,0.8)"><sapn style="color:rgb(255,255,255)">Okay Result</sapn></h2>
+<div class="container ">
+ <div class="border border-danger ml-3 mr-3 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><sapn style="color:rgb(255,255,255)">Okay Result</sapn></h2>
 <p>Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. </p>
+    </div>     
 </div> 
       </div>
   
@@ -324,7 +325,7 @@ footer {
   </div>
   <div class="text-center">
   <h5><span style="text-align:center;color:blue">contact us: vjhelpcare@gmail.com</span></h5>
-  <h4><span style="text-align:center;color:rgb(200,90,70)">Thank You..</span></h4>
+  <h4><span style="text-align:center;color:rgb(200,20,20)">Thank You..</span></h4>
   </div>
    </div>
    </div>
