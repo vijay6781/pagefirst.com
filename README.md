@@ -29,14 +29,7 @@ footer {
   min-height:40px;
   overflow-y:scroll;
 }
- .border {
-    display: inline-block;
-    width: 70px;
-    height: 70px;
-    margin: 6px;
-  }
-
-
+ 
 </style>
 
 <body data-spy="scroll"  data-offset="50">
@@ -308,7 +301,7 @@ footer {
 <script type="text/javascript">
      (adsbygoogle = window.adsbygoogle ||  []).push({});
 </script>
-<div class="border border-danger">
+
  <div class="row text-center mx-auto">
     <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-1 mr-1 mb-4 mt-4"> 
 <div class="content_area">
@@ -317,7 +310,7 @@ footer {
 <p>Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. </p>
 </div> 
       </div>
-   </div> 
+  
   
 <div class="text-center mt-2">
   <h3><span class="badge badge-primary bg-warning"><a href="photos.html">My Gallery</a></span></h3>
