@@ -300,14 +300,15 @@ footer {
 <script type="text/javascript">
      (adsbygoogle = window.adsbygoogle ||  []).push({});
 </script>
-< div class="jumbotron"> 
+ 
 <div class="content_area">
 <div class="container">
   <h2 class="heading text-success"><span style="text-align:center">Okay Result</span></h2>
-<p> Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result.<br><h2>< href="https://okayresult.com/"> WWW.OKAYRESULT.COM</a></h2></p>
+<p> Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result.<br> <h2>< href="https://okayresult.com/"> WWW.OKAYRESULT.COM</a></h2></p>
+  
   </div>
   </div>
-  </div>
+  
   
 <div class="text-center mt-2">
   <h3><span class="badge badge-primary bg-warning"><a href="photos.html">My Gallery</a></span></h3>
