@@ -226,11 +226,6 @@ footer {
  
  
 </tr>
-<tr>
-
- <td>  CBSE 12th Result</td>
-
-</tr>
 
 </tbody>
 
@@ -265,11 +260,7 @@ footer {
  
  
 </tr>
-<tr>
 
- <td>  CBSE 12th Result</td>
-
-</tr>
 </tbody>
 </table >
     </div>
@@ -288,22 +279,9 @@ footer {
   
 </tr>
 
-<tr>
-  
- <td> Bihar Board 12th Result </td>
-
-</tr>
-
-<tr>
-  
+<tr> 
  <td>  CBSE 10th Result</td>
  
- 
-</tr>
-<tr>
-
- <td>  CBSE 12th Result</td>
-
 </tr>
 </tbody>
 </table >
