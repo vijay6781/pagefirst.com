@@ -256,7 +256,7 @@ footer {
 
 <tr>
   
- <td>  CBSE 10th Result</td>
+ <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 Notification new date 4 oct2 020</a></td>
  
  
 </tr>
@@ -305,9 +305,9 @@ footer {
       </div>
   
   
-  <div class="text-center">
+  <div class="text-center mt-2">
   <h5><span style="text-align:center;color:blue">contact us: vjhelpcare@gmail.com</span></h5>
-  <h4><span style="text-align:center;color:rgb(200,20,20)">Thank You..</span></h4>
+  <h4><span style="text-align:center;color:rgb(20,200,20)">Thank You..</span></h4>
   </div>
    </div>
    </div>
