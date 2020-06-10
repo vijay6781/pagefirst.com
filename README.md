@@ -245,7 +245,7 @@ footer {
   <th scope="col" style="background:#55ff00">Admit Card </th>
         
       
-</tr>
+</tr>upscnda1.html
 <tbody class="tbody" >
 <tr>
   <td><a href="sscchsl.html">SSC CHSL Left Over Paper Exam Date 2020</a></td>
@@ -255,7 +255,7 @@ footer {
 
 <tr>
   
- <td> Bihar Board 12th Result </td>
+ <td><a href="upscnda1.html">UPSC NDA I 2020 Exam Date Extended</a></td>
 
 </tr>
 
