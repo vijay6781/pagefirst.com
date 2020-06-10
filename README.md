@@ -305,16 +305,6 @@ footer {
       </div>
   
   
-<div class="text-center mt-2">
-  <h3><span class="badge badge-primary bg-warning"><a href="photos.html">My Gallery</a></span></h3>
-  </div>
-<div class="text-center mt-3">
-    
-<h5><a href="https://vijay6781.github.io/Lifelong/"><span style="text-align:center">Student Book Help</span></a></h5>
-</div>
-<div class="text-center">
-  <h3><span style="text-align:center; color:green">website is updating</span></h3>
-  </div>
   <div class="text-center">
   <h5><span style="text-align:center;color:blue">contact us: vjhelpcare@gmail.com</span></h5>
   <h4><span style="text-align:center;color:rgb(200,20,20)">Thank You..</span></h4>
