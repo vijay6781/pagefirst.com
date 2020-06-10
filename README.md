@@ -317,7 +317,7 @@ footer {
 <div class="content_area">
 <div class="container ">
  <div class="border border-danger ml-3 mr-3 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
-<p>Okay Result provide all of you latest Job. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
+<p>Okay Result provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
    <h3><a href="https://okayresult.com/"><span style="color:red">www.okayresult.com</span></a></h3>
     </div>     
 </div> 
