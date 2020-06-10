@@ -240,7 +240,7 @@ footer {
   <th scope="col" style="background:#55ff00">Admit Card </th>
         
       
-</tr>upscnda1.html
+</tr>
 <tbody class="tbody" >
 <tr>
   <td><a href="sscchsl.html">SSC CHSL Left Over Paper Exam Date 2020</a></td>
