@@ -315,7 +315,7 @@ footer {
 </div> 
       </div>
   
-  
+  <script data-ad-client="ca-pub-7863323163812436" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <div class="text-center mt-2">
   <h5><span style="text-align:center;color:blue">contact us: vjhelpcare@gmail.com</span></h5>
   <h4><span style="text-align:center;color:rgb(20,200,20)">Thank You..</span></h4>
