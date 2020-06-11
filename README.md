@@ -84,6 +84,12 @@ footer {
 </tr>
 <tbody class="tbody" >
    <tr>
+ <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>      <span style="color:red">New</span> </td>
+ 
+  
+</tr>
+  
+   <tr>
  <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>
  
   
