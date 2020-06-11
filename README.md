@@ -56,7 +56,7 @@ footer {
         <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona News</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="http://www.nitrr.ac.in/">NIT RAIPUR</a>
+        <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="photos.html">My Gallery</a>
