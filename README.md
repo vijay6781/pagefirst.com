@@ -245,12 +245,6 @@ background:rgb(0, 255, 255);
 
 </tr>
 
-<tr>
-  
- <td>  CBSE 10th Result</td>
- 
- 
-</tr>
 
 </tbody>
 
