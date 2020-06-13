@@ -31,7 +31,7 @@ footer {
 }
 #vks .nav-link:hover
 {
-color:rgb(255, 255, 255);
+color:rgb(255, 26, 140);
 background:rgb(0, 255, 255);
  font-weight:130;
  font-size:1.5rem;
