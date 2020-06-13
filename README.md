@@ -33,6 +33,8 @@ footer {
 {
 color:rgb(255, 0, 102);
 background:rgb(0, 255, 255);
+ font-weight:100;
+ font-size:1.5rem;
 } 
 </style>
 
