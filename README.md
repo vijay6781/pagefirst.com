@@ -92,6 +92,9 @@ background:rgb(0, 255, 255);
       
 </tr>
 <tbody class="tbody" >
+     <tr>
+ <td><a href="cgpcs.html">CGPSC Pre Result 2020</a> <span style="color:red">New</span> </td> 
+</tr>
    <tr>
  <td><a href="bsf2020.html">BSF Constable Result 2020</a> <span style="color:red">New</span> </td> 
 </tr>
