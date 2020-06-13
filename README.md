@@ -196,7 +196,7 @@ background:rgb(0, 255, 255);
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00"> State Job</th>     
+  <th scope="col" style="background:#55ff00"> Statewise Job</th>     
 </tr>
 <tbody class="tbody" >
       <tr>
