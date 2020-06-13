@@ -153,7 +153,7 @@ background:rgb(0, 255, 255);
  <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a><span style="color:red">New</span></td> 
 </tr>
   
-    <tr>
+   <tr>
  <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:red">New</span></td> 
 </tr>
   
@@ -196,7 +196,7 @@ background:rgb(0, 255, 255);
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Bihar/up Job</th>     
+  <th scope="col" style="background:#55ff00"> State Job</th>     
 </tr>
 <tbody class="tbody" >
       <tr>
