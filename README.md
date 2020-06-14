@@ -309,6 +309,10 @@ background:rgb(0, 255, 255);
  <td><a href="https://drive.google.com/file/d/107NaCd45SMfJ-bzTbfaScPTfoAelNV3U/view"> Data Structure and Algorithm  C++ </a></td>
   
 </tr>
+<tr> 
+ <td><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">Lecture Notes on Data Structure</a></td>
+  
+</tr>
 </tbody>
 </table >
     </div>
