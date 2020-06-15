@@ -262,7 +262,7 @@ background:rgb(0, 255, 255);
 </tr>
 <tbody class="tbody" >
   <tr>
- <td><a href="fcidvtest.html">Bihar Home Guard Driver PET Admit Card 2020</a> <span style="color:red">New</span> </td> 
+ <td><a href="fcidvtest.html">FCI Various Post DV Test Admit Card 2020</a> <span style="color:red">New</span> </td> 
 </tr>
   
   
@@ -284,7 +284,7 @@ background:rgb(0, 255, 255);
 
 <tr>
   
- <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 Notification new date 4 oct2 020</a></td>
+ <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 Notification new date 4 oct 2020</a></td>
  
  
 </tr>
