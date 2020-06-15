@@ -36,6 +36,9 @@ background:rgb(0, 255, 255);
  font-weight:130;
  font-size:1.5rem;
 } 
+table {
+  border-color: #55ff00;
+}
 </style>
 
 <body data-spy="scroll"  data-offset="50">
@@ -344,7 +347,7 @@ background:rgb(0, 255, 255);
       <div class="text-center ml-5 mr-5 mb-1 mt-4"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
 <div class="content_area">
 <div class="container ">
- <div class="border border-danger ml-3 mr-3 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
+ <div class="border border-danger ml-2 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
 <p>Okay Result provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
    <h3><a href="https://okayresult.com/"><span style="color:red">www.okayresult.com</span></a></h3>
     </div>     
