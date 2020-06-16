@@ -276,6 +276,9 @@ table {
       
 </tr>
 <tbody class="tbody" >
+   <tr>
+ <td><a href="Bihar Police Squad.html">Bihar Police Squad Constable PET Admit Card 2020</a> <span style="color:red">New</span> </td> 
+</tr>
   <tr>
  <td><a href="fcidvtest.html">FCI Various Post DV Test Admit Card 2020</a> <span style="color:red">New</span> </td> 
 </tr>
