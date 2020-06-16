@@ -159,7 +159,7 @@ table {
 <tbody class="tbody" >
   
   <tr>
- <td> <a href="upsciss.html">AFCAT 02/2020 Online Form </a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a><span style="color:rgb(255, 0, 102)">New</span></td> 
 </tr>
  
   <tr>
