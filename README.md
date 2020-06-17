@@ -158,7 +158,7 @@ table {
 </tr>
 <tbody class="tbody" >
   <tr>
- <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
 </tr>
    
   <tr>
@@ -255,7 +255,7 @@ table {
 </tr>
 <tbody class="tbody" >
     <tr>
- <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
 </tr>
    
 <tr>
