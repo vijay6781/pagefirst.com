@@ -70,10 +70,13 @@ table {
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="photos.html">My Gallery</a>
+        <a class="nav-link" href="photos.html">Gallery</a>
       </li>
        <li class="nav-item">               
-       <a class="nav-link" href="okay result calculator.html">Calculator</a>
+       <a class="nav-link" href="okay result calculator.html">Calc</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://okayresult.com/okaymeme.html">Meme</a>
       </li>
     </ul>
   </div>  
