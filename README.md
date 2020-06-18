@@ -158,6 +158,9 @@ table {
   <tr>
  <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
 </tr>
+   <tr>
+ <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
   <tr>
  <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
   </tr>
@@ -202,6 +205,9 @@ table {
   <th scope="col" style="background:#55ff00">Bihar/UP Job</th>     
 </tr>
 <tbody class="tbody" >
+  <tr>
+ <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
    <tr>
  <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
 </tr>
