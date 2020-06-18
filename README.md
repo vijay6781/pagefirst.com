@@ -2,7 +2,7 @@
 <head>
 <html lang="en">
 <head>
-  <title>okayresult.com, Okay Result, Ok Result, okayresult,okay Result,ओके रिजल्ट , Sarkari Result 2020</title>
+  <title>okayresult.com, Okay Result, Ok Result, okayresult,#Okay Result, #okResult, okay Result,ओके रिजल्ट , Sarkari Result 2020</title>
   <meta charset="utf-8">
   <meta name="description" content="Okay result, Okay Results,okresult,okayresult, Sarkari Results, ओके रिजल्ट, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms, Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job.">
   <meta name="keywords" content="Okay Result,OkayResUlt, OKResult, okayresult, Sarkariresult, Sarkari, Sarkariresults">
