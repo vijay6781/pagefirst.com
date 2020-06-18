@@ -97,6 +97,9 @@ table {
       
 </tr>
 <tbody class="tbody" >
+    <tr>
+ <td><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/list_jht2019_16062020.pdf">SSC Junior Hindi Translator 2019 Paper II Result</a></td>  
+</tr>
      <tr>
  <td><a href="cgpcs.html">CGPSC Pre Result 2020</a> <span style="color:red">New</span> </td> 
 </tr>
@@ -110,9 +113,7 @@ table {
 </tr>
   
    <tr>
- <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>
- 
-  
+ <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>  
 </tr>
   <tr>
  <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
