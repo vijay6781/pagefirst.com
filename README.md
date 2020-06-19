@@ -73,7 +73,7 @@ table {
         <a class="nav-link" href="photos.html">Gallery</a>
       </li>
        <li class="nav-item">               
-       <a class="nav-link" href="okay result calculator.html">Calc</a>
+       <a class="nav-link" href="okay result calculator.html">Calculator</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://okayresult.com/okaymeme.html"></a>
