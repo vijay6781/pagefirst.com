@@ -56,6 +56,10 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
+ <button type="button" class="btn btn-primary">Okay Result</button>
+  <button type="button" class="btn btn-primary">Okay Result</button>
+  <button type="button" class="btn btn-primary">OkayResult</button>
+  <button type="button" class="btn btn-primary">OkResult</button>
       <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
