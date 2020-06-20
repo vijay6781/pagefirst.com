@@ -51,8 +51,58 @@ table {
   background-color:#e8491d;
   text-align:center;
 }
-   
+.floating-text {
+	background-color: #001F61;
+	border-radius: 10px 10px 0 0;
+	color: #fff;
+	font-family: 'Muli';
+	padding: 7px 35px;
+	position: fixed;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+	z-index: 998;
+}
 
+.floating-text a {
+	color: #FF7500;
+	text-decoration: none;
+}
+.floating-btn {
+	border-radius: 26.5px;
+	background-color: #001F61;
+	border: 1px solid #001F61;
+	box-shadow: 0 16px 22px -17px #03153B;
+	color: #fff;
+	cursor: pointer;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 12px 20px;
+	position: fixed;
+	bottom:0px;
+	right: 20px;
+	z-index: 999;
+}
+
+.floating-btn:hover {
+	background-color: #ffffff;
+	color: #001F61;
+}
+
+.floating-btn:focus {
+	outline: none;
+}
+@media screen and (max-width: 480px) {
+
+.social-panel-container.visible {
+		transform: translateX(0px);
+}
+	
+.floating-btn {
+	right:25px;
+}
+}
 </style>
 
 <body data-spy="scroll"  data-offset="50">
@@ -396,7 +446,7 @@ table {
 <div class="container ">
  <div class="border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
 <p>Okay Result provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
-   <h3><a href="https://okayresult.com/"><span style="color:red">www.okayresult.com</span></a></h3>
+   <h3><a href="https://okayresult.com/"><span style="color:red"> type: www.okayresult.com</span></a></h3>
     </div>     
 </div> 
       </div>
@@ -414,5 +464,9 @@ table {
  </div>
  </div>
  </div>
+ <div class="floating-text">
+	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
+</div>
+ 
 </body>
 </html>
