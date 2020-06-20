@@ -76,7 +76,7 @@ table {
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar corona News</a>
+        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
@@ -112,6 +112,10 @@ table {
       
 </tr>
 <tbody class="tbody" >
+   <tr>
+ <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(49,0,255)">New</span> </td>  
+</tr>
+  <tr>
    <tr>
  <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
 </tr>
