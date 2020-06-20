@@ -110,8 +110,7 @@ table {
     <div class="border border-success">
   <table >
 <tr>
- 
-  <th scope="col" style="background:#55ff00">Result </th>           
+  <th scope="col" style="background:#55ff00"> Result </th>           
 </tr>
 <tbody class="tbody">
    <tr>
@@ -143,6 +142,7 @@ table {
   
  <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
 </tr>
+
 <tr>
  <td><a href="index1.html">Bihar 10th Result</a></td>
  
