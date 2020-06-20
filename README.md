@@ -1,4 +1,4 @@
-<html>
+ <html>
 <head>
 <html lang="en">
 <head>
@@ -16,9 +16,11 @@
 </head>
 <style type="text/css">
   body {
-      position: relative; 
+
+   font-family: 'Roboto', sans-serif;  position: relative; 
   }
-    @import "{{ site.theme }}";
+  
+   @import "{{ site.theme }}";
 
 footer {
   display: none !important;
@@ -41,12 +43,22 @@ background:rgb(0, 255, 255);
 table {
   border-color: #55ff00;
 }
+.footerv{
+  padding: 1.6%;;
+  margin-top: 20px;
+  margin-bottom:2px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align:center;
+}
+   
+
 </style>
 
 <body data-spy="scroll"  data-offset="50">
       <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
-   <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
+   <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
 </div>
   
   
@@ -61,10 +73,10 @@ table {
        <a class="nav-link" href="okay result latestjob.html">Latest Jobs</a>
       </li>
       <li class="nav-item">               
-       <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona Case</a>
+       <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona News</a>
+        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
@@ -387,18 +399,17 @@ table {
       </div>
   
  
-  <div class="text-center mt-2">
-  <h5><span style="text-align:center;color:blue">contact us :<svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-  <path fill-rule="evenodd" d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-    </svg> <a href="mailto:vjhelpcare@gmail.com">vjhelpcare@gmail.com</a></span></h5>
-  <h4><span style="text-align:center;color:rgb(20,200,20)">Thank You..</span></h4>
-  </div>
-   </div>
-   </div>
+ 
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
-   
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-
+<div class="footerv">
+  <p>Contact us<br>
+ <span style="color:rgb(255,255,255)"> <svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg> </span> <a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,255,255)">vjhelpcare@gmail.com</span></a></p>
+ </div>
+ </div>
+ </div>
 </body>
 </html>
