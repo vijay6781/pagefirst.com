@@ -128,13 +128,13 @@ table {
  <td><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/list_jht2019_16062020.pdf">SSC Junior Hindi Translator 2019 Paper II Result</a></td>  
 </tr>
      <tr>
- <td><a href="cgpcs.html">CGPSC Pre Result 2020</a> <span style="color:red">New</span> </td> 
+ <td><a href="cgpcs.html">CGPSC Pre Result 2020</a>  </td> 
 </tr>
    <tr>
- <td><a href="bsf2020.html">BSF Constable Result 2020</a> <span style="color:red">New</span> </td> 
+ <td><a href="bsf2020.html">BSF Constable Result 2020</a> </td> 
 </tr>
    <tr>
- <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>      <span style="color:red">New</span> </td>
+ <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>       </td>
  
   
 </tr>
@@ -196,29 +196,29 @@ table {
  <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
 </tr>
   <tr>
- <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
+ <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
   </tr>
   <tr>
- <td> <a href="ndaII.html">UPSC NDA II Online Form 2020</a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="ndaII.html">UPSC NDA II Online Form 2020</a></td> 
 </tr>
   
   <tr>
- <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a></td> 
 </tr>
  
   <tr>
- <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a></td> 
 </tr>
   
    <tr>
- <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a></td> 
 </tr>
     <tr>
- <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td>
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a></td>
 
 </tr>
   <tr>
- <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a><span style="color:red">Extended</span></td>
+ <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a></td>
 </tr> 
 
 <tr>
@@ -249,11 +249,11 @@ table {
  <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
 </tr>
       <tr>
- <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>  
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a></td>  
 </tr>
 
 <tr>
- <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
+ <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a></td>
  
  
 </tr>
@@ -280,7 +280,7 @@ table {
 </tr>
 <tbody class="tbody" >
     <tr>
- <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
+ <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
 </tr>
    
 <tr>
