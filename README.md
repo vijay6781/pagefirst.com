@@ -1,4 +1,4 @@
- <html>
+<html>
 <head>
 <html lang="en">
 <head>
@@ -56,10 +56,6 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
- <button type="button" class="btn btn-primary">Okay Result</button>
-  <button type="button" class="btn btn-primary">Okay Result</button>
-  <button type="button" class="btn btn-primary">OkayResult</button>
-  <button type="button" class="btn btn-primary">OkResult</button>
       <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
@@ -80,7 +76,7 @@ table {
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona</a>
+        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar corona News</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
@@ -109,13 +105,13 @@ table {
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
     <div class="border border-success">
   <table >
+  
 <tr>
-  <th scope="col" style="background:#55ff00"> Result </th>           
+  <th scope="col" style="background:#55ff00">Result</th>
+        
+      
 </tr>
-<tbody class="tbody">
-   <tr>
- <td><a href="biharpolice.html">Bihar Police PET Admit</a><span style="color:rgb(255, 51, 153)"> New</span></td>  
-</tr>
+<tbody class="tbody" >
    <tr>
  <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
 </tr>
@@ -140,9 +136,14 @@ table {
   
 </tr>
   
- <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
+   <tr>
+ <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>  
 </tr>
-
+  <tr>
+ <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
+ 
+  
+</tr>
 <tr>
  <td><a href="index1.html">Bihar 10th Result</a></td>
  
