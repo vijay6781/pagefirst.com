@@ -109,11 +109,9 @@ table {
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
     <div class="border border-success">
   <table >
-  
 <tr>
   <th scope="col" style="background:#55ff00">Result</th>
-        
-      
+             
 </tr>
 <tbody class="tbody" >
    <tr>
