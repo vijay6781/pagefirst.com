@@ -113,7 +113,7 @@ table {
 </tr>
 <tbody class="tbody" >
    <tr>
- <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(49,0,255)">New</span> </td>  
+ <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)">New</span> </td>  
 </tr>
    <tr>
  <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
