@@ -117,6 +117,9 @@ table {
 </tr>
 <tbody class="tbody" >
    <tr>
+ <td><a href="biharpolice.html">Bihar Police PET Admit</a><span style="color:rgb(255, 51, 153)">New</span></td>  
+</tr>
+   <tr>
  <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
 </tr>
   <tr>
@@ -140,13 +143,7 @@ table {
   
 </tr>
   
-   <tr>
- <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>  
-</tr>
-  <tr>
  <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
- 
-  
 </tr>
 <tr>
  <td><a href="index1.html">Bihar 10th Result</a></td>
