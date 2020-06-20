@@ -390,7 +390,7 @@ table {
   <div class="text-center mt-2">
   <h5><span style="text-align:center;color:blue">contact us :<svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg> vjhelpcare@gmail.com</span></h5>
+    </svg> <a href="mailto:vjhelpcare@gmail.com">vjhelpcare@gmail.com</a></span></h5>
   <h4><span style="text-align:center;color:rgb(20,200,20)">Thank You..</span></h4>
   </div>
    </div>
