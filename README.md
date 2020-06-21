@@ -233,6 +233,9 @@ table {
   <th scope="col" style="background:#55ff00">Latest Job</th>     
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
   <tr>
  <td> <a href="ssc cpo2020.html">SSC CPO Sub Inspector Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
