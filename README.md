@@ -93,7 +93,7 @@ table {
 .floating-btn:focus {
 	outline: none;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 1024px) {
 
 .social-panel-container.visible {
 		transform: translateX(0px);
