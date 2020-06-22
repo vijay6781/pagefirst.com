@@ -478,6 +478,26 @@ table {
  <div class="floating-text">
 	type:<a href="https://okayresult.com/" target="_blank">www.okayresult.com</a>
 </div>
- 
+ <script type="text/javascript">
+	var body=document.querySelector(".floating-text");
+isblue=1;
+setInterval(function(){
+	if(isblue==1){
+		body.style.background="rgb(255, 255, 0)";
+		isblue=2;
+	}
+	else if(isblue==2){
+	 body.style.background="rgb(255, 4, 2)";
+	 	isblue=3;
+	}
+	else if(isblue==3){
+    body.style.background="rgb(0, 255, 1)";
+    isblue=4;
+	}
+	else if(isblue==4){
+    body.style.background="rgb(47, 4, 255)";
+    isblue=1;
+	}
+},1500);
 </body>
 </html>
