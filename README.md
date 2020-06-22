@@ -157,11 +157,14 @@ table {
   <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Result</th>
+  <th scope="col" style="background:#55ff00">Result</th>http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf
         
       
 </tr>
 <tbody class="tbody" >
+	   <tr>
+ <td><a href="http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf">Download HSSC Group D 2018 Waiting List</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
    <tr>
  <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
