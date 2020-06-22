@@ -499,5 +499,6 @@ setInterval(function(){
     isblue=1;
 	}
 },1500);
+	</script>
 </body>
 </html>
