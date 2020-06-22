@@ -158,7 +158,7 @@ table {
   <table >
   
 <tr>
-	<th scope="col" style="background:#55ff00">Result</th>  
+	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
 	   <tr>
@@ -232,7 +232,7 @@ table {
    <div class="border border-success">
   <table >
 <tr>
-  <th scope="col" style="background:#55ff00">Latest Job</th>     
+  <th scope="col" style="background:rgb(0,255,1)">Latest Job</th>     
 </tr>
 <tbody class="tbody" >
 	<tr>
@@ -291,7 +291,7 @@ table {
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Bihar/UP Job</th>     
+  <th scope="col" style="background:rgb(0,255,1)">Bihar/UP Job</th>     
 </tr>
 <tbody class="tbody" >
    <tr>
@@ -329,7 +329,7 @@ table {
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Tech job</th>
+  <th scope="col" style="background:rgb(0,255,1)">Tech job</th>
         
       
 </tr>
@@ -365,7 +365,7 @@ table {
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Admit Card </th>
+  <th scope="col" style="background:rgb(0,255,1)">Admit Card </th>
         
       
 </tr>
@@ -413,7 +413,7 @@ table {
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">college/university Book</th>
+  <th scope="col" style="background:rgb(0,255,1)">college/university Book</th>
         
       
 </tr>
