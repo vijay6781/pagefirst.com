@@ -498,7 +498,7 @@ setInterval(function(){
     body.style.background="rgb(47, 4, 255)";
     isblue=1;
 	}
-},1500);
+},2000);
 	</script>
 </body>
 </html>
