@@ -44,9 +44,9 @@ table {
   border-color: #55ff00;
 }
 .footerv{
-  padding: 1.6%;;
+  padding: 1.8%;;
   margin-top: 20px;
-  margin-bottom:2px;
+  margin-bottom:1px;
   color:#ffffff;
   background-color:#e8491d;
   text-align:center;
