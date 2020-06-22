@@ -158,9 +158,7 @@ table {
   <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Result</th>http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf
-        
-      
+	<th scope="col" style="background:#55ff00">Result</th>  
 </tr>
 <tbody class="tbody" >
 	   <tr>
