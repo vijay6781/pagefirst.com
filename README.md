@@ -101,7 +101,7 @@ table {
 }
 	
 .floating-btn {
-	right:25px;
+	right:20px;
 }
 }
 </style>
