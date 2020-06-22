@@ -474,7 +474,7 @@ table {
  </div>
  </div>
  <div class="floating-text">
-	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
+	type:<a href="https://okayresult.com/" target="_blank">www.okayresult.com</a>
 </div>
  
 </body>
