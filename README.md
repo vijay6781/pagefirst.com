@@ -237,8 +237,10 @@ table {
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">     
    <div class="border border-success">
   <table >
-<tr>
-  <th scope="col" style="background:rgb(0,255,1)">
+	  <tr>
+	<th scope="col" style="background:rgb(0,255,1)">Latest Job</th>  
+</tr>
+
 <tbody class="tbody" >
 		<tr>
  <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)">new</span></td>  
