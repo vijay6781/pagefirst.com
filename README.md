@@ -238,9 +238,11 @@ table {
    <div class="border border-success">
   <table >
 <tr>
-  <th scope="col" style="background:rgb(0,255,1)">Latest Job</th>     
-</tr>
+  <th scope="col" style="background:rgb(0,255,1)">
 <tbody class="tbody" >
+		<tr>
+ <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)">new</span></td>  
+</tr>
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
 </tr>
