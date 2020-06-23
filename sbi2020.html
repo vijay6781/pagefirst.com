@@ -34,12 +34,12 @@ footer {
 
    font-family: 'Roboto', sans-serif;  position: relative; 
   }
-	  .floating-text {
+	.floating-text {
 	background-color: #001F61;
 	border-radius: 10px 10px 0 0;
 	color: #fff;
 	font-family: 'Muli';
-	padding: 7px 7px;
+	padding: 7px 35px;
 	position: fixed;
 	bottom: 0;
 	left: 50%;
@@ -52,7 +52,40 @@ footer {
 	color: #FF7500;
 	text-decoration: none;
 }
+.floating-btn {
+	border-radius: 26.5px;
+	background-color: #001F61;
+	border: 1px solid #001F61;
+	box-shadow: 0 16px 22px -17px #03153B;
+	color: #fff;
+	cursor: pointer;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 12px 20px;
+	position: fixed;
+	bottom:0px;
+	right: 20px;
+	z-index: 999;
+}
 
+.floating-btn:hover {
+	background-color: #ffffff;
+	color: #001F61;
+}
+
+.floating-btn:focus {
+	outline: none;
+}
+@media screen and (max-width: 1024px) {
+
+.social-panel-container.visible {
+		transform: translateX(0px);
+}
+	
+.floating-btn {
+	right:12px;
+}
+}
 	  
 	  
 	  </style>
