@@ -161,6 +161,12 @@ table {
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
+	 <tr>
+ <td><a href="https://results.cg.nic.in/node10">CG HIGHSCHOOL (10th) EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="https://results.cg.nic.in/node12">CG HIGHER SECONDARY (12th) EXAMINATION RESULT 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
 	   <tr>
  <td><a href="http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf">Download HSSC Group D 2018 Waiting List</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
