@@ -242,6 +242,9 @@ table {
 </tr>
 
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="Bihar Police Lady.html"> Bihar Police Lady Constable 2020  </a><span style="color:rgb(255,0,0)">new</span></td>  
+</tr>
 		<tr>
  <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)">new</span></td>  
 </tr>
