@@ -145,14 +145,14 @@ table {
   </div>  
 </nav>
 
+  <script async src="https://cse.google.com/cse.js?cx=007234223769253818867:bk17khd0zka"></script>
+<div class="gcse-search"></div>
+
 <div class="text-center mt-2">
     <h3>
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
   </div>
-  
-  <script async src="https://cse.google.com/cse.js?cx=007234223769253818867:bk17khd0zka"></script>
-<div class="gcse-search"></div>
-  
+    
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
