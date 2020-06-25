@@ -440,7 +440,7 @@ table {
 </tr>
 <tbody class="tbody" >
 	 <tr>
- <td><a href="https://drive.google.com/file/d/11R-X-TmqNs_Ip6IGtWbb64lgnx6e41Gx/view?usp=drivesdk">Probabilty and Statics(T.Veerarajan)</a></td> 
+ <td><a href="https://drive.google.com/file/d/11R-X-TmqNs_Ip6IGtWbb64lgnx6e41Gx/view?usp=drivesdk">Probability and Statics(T.Veerarajan)</a></td> 
 </tr>
 	 <tr>
  <td><a href="https://drive.google.com/file/d/11L-CEWQcY0FUOylHe6hQiA5nKpclk4Wr/view"> Operating System Principles (Abraham Silberschatz)</a></td> 
