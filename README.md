@@ -244,6 +244,9 @@ table {
 </tr>
 
 <tbody class="tbody" >
+		<tr>
+ <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
 	<tr>
  <td> <a href="Bihar Police Lady.html"> Bihar Police Lady Constable 2020  </a><span style="color:rgb(255,0,0)">new</span></td>  
 </tr>
@@ -308,7 +311,10 @@ table {
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Bihar/UP Job</th>     
 </tr>
-<tbody class="tbody" >
+<tbody class="tbody" >https://okayresult.com/biharCHO.html
+	<tr>
+ <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
    <tr>
  <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
 </tr>
