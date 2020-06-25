@@ -311,7 +311,7 @@ table {
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Bihar/UP Job</th>     
 </tr>
-<tbody class="tbody" >https://okayresult.com/biharCHO.html
+<tbody class="tbody" >
 	<tr>
  <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
