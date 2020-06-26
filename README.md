@@ -164,7 +164,7 @@ table {
 </tr>
 <tbody class="tbody" >
 	 <tr>
- <td><a href="http://upsssc.gov.in/Online_App/Results.aspx?ID=75&Result_Type=P&Exam_Code=7&Advt_Code=721&Dept_Code=450&Post_Code=1&OnlyIntview=No"> UPSSSC Lower Subordinate Various Post Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="http://upsssc.gov.in/Online_App/Results.aspx?ID=75&Result_Type=P&Exam_Code=7&Advt_Code=721&Dept_Code=450&Post_Code=1&OnlyIntview=No"> Download UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	 <tr>
  <td><a href="https://results.cg.nic.in/node10">CG 10th EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
