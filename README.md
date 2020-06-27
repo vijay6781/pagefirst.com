@@ -164,7 +164,10 @@ table {
 </tr>
 <tbody class="tbody" >
 	 <tr>
- <td><a href="http://upresults.nic.in/">UP 10th,12th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="https://upmsp.edu.in/ResultHighSchoolZXCVMNB.aspx">UP 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="https://upmsp.edu.in/ResultIntermediateZXCVMNB.aspx">UP 12th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	 <tr>
  <td><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
