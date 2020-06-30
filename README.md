@@ -268,6 +268,9 @@ table {
 
 <tbody class="tbody" >
 	<tr>
+ <td> <a href="cgciviljudge.html">CGPSC Civil Judge 2019 Mains Online Form</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
+	<tr>
  <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)">New</span></td>  
 </tr>
 		<tr>
