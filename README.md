@@ -268,6 +268,10 @@ table {
 
 <tbody class="tbody" >
 	<tr>
+ <td> <a href="sscjh.html">SSC Junior Hindi Translator Form 2020
+</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
+	<tr>
  <td> <a href="cgciviljudge.html">CGPSC Civil Judge 2019 Mains Online Form</a><span style="color:rgb(255,0,0)">New</span></td>  
 </tr>
 	<tr>
