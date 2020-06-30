@@ -339,6 +339,12 @@ table {
 </tr>
 <tbody class="tbody" >
 	<tr>
+  
+ <td><a href="https://okayresult.com/biharboard2020.html">Bihar Board 12th  Scrutiny Result 2020</a></td>
+
+ 
+</tr>
+	<tr>
  <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
    <tr>
@@ -360,12 +366,7 @@ table {
  
 </tr>
 
-<tr>
-  
- <td><a href="Biharscrutiny20.html">Bihar Board Scrutiny / RTI Form 2020</a></td>
 
- 
-</tr>
 
 </tbody>
 </table >
