@@ -268,7 +268,7 @@ table {
 
 <tbody class="tbody" >
 	<tr>
- <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)">Re-Open</span></td>  
+ <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)">New</span></td>  
 </tr>
 		<tr>
  <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)">Re-Open</span></td>  
