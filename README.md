@@ -174,6 +174,9 @@ table {
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
+		 <tr>
+ <td><a href="https://okayresult.com/biharboard2020.html">Bihar  12th Scrutiny Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
 	 <tr>
  <td><a href="https://upmsp.edu.in/ResultHighSchoolZXCVMNB.aspx">UP 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
