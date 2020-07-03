@@ -28,7 +28,9 @@
 </head>
 <style type="text/css">
   body {
-
+background: #FEAC5E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
    font-family: 'Roboto', sans-serif;  position: relative; 
   }
   
@@ -167,7 +169,7 @@ table {
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-    <div class="border border-success">
+    <div class=" bg-white border border-success">
   <table >
   
 <tr>
@@ -267,7 +269,7 @@ table {
     </div>
  
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">     
-   <div class="border border-success">
+   <div class="bg-white border border-success">
   <table >
 	  <tr>
 	<th scope="col" style="background:rgb(0,255,1)">Latest Job</th>  
@@ -356,7 +358,7 @@ table {
 </div>
     </div>
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">
-   <div class="border border-success">
+   <div class=" bg-white border border-success">
      <table >
   
 <tr>
@@ -398,7 +400,7 @@ table {
     </div>
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-   <div class="border border-success">
+   <div class="bg-white border border-success">
      <table >
   
 <tr>
@@ -437,7 +439,7 @@ table {
  </div>
  
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-   <div class="border border-success">
+   <div class="bg-white border border-success">
      <table >
   
 <tr>
@@ -485,7 +487,7 @@ table {
 </div>
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-   <div class="border border-success">
+   <div class="bg-white border border-success">
      <table >
   
 <tr>
@@ -537,7 +539,7 @@ table {
       <div class="text-center ml-5 mr-5 mb-1 mt-4"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
 <div class="content_area">
 <div class="container ">
- <div class="border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
+ <div class=" bg-white border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
 	 <p><strong>Okay Result</strong> provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
    <h3><a href="https://okayresult.com/"><span style="color:red"> www.okayresult.com</span></a></h3>
     </div>     
