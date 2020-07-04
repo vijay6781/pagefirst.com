@@ -343,20 +343,7 @@ table {
    <tr>
  <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a></td> 
 </tr>
-    <tr>
- <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a></td>
-
-</tr>
-  <tr>
- <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a></td>
-</tr> 
-
-<tr>
- <td> <a href="drdo2020.html">DRDO Scientist B Recruitment 2020 Online Form</a> </td> 
-</tr>
-<tr> 
- <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
-</tr>
+ 
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">More View</span></a></td>
 </tr>
