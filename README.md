@@ -222,9 +222,12 @@ table {
  <td><a href="cgpcs.html">CGPSC Pre Result 2020</a>  </td> 
 </tr>
    <tr>
- <td><a href="bsf2020.html">BSF Constable Result 2020</a> </td> 
+ <td><a href="bsf2020.html">BSF Constable Result 2020</a> </td>
+
 </tr>
- 
+ <tr> 
+	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
+</tr>
   
 </tbody>
 </table >
@@ -291,15 +294,6 @@ table {
   <tr>
  <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
   </tr>
-  <tr>
- <td> <a href="ndaII.html">UPSC NDA II Online Form 2020</a></td> 
-</tr>
-  
-  <tr>
- <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a></td> 
-</tr>
- 
- 
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
 </tr>
