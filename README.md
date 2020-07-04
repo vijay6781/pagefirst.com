@@ -358,7 +358,7 @@ table {
  <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
 </tr>
 <tr> 
- <td><a href="okay result latestjob.html"></a><span style="color:green">More View</span></td>
+	<td><a href="okay result latestjob.html"><span style="color:green">More View</span></a></td>
 </tr>
 </tbody>
 </table>
