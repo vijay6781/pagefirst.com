@@ -233,33 +233,10 @@ table {
    <tr>
  <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>  
 </tr>
-  <tr>
- <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
- 
   
-</tr>
-<tr>
- <td><a href="index1.html">Bihar 10th Result</a></td>
- 
-  
-</tr>
 
-<tr>
-  
- <td><a href="http://www.bpsc.bih.nic.in/Advt/NB-2020-05-30-01.pdf">BPSC Assistant 2018 Revised Result</a></td>
-
-</tr>
-  <tr>
- <td><a href="biharboard2020.html"> Bihar Board 12th Result 2020</a></td>
-
-</tr>
- <tr>
- <td><a href="http://cbseresults.nic.in/class12/class12th19.htm"> CBSE 12th Result 2020</a></td>
-
-</tr>
-<tr>
- <td><a href="http://cbseresults.nic.in/class10/class10th19.htm"> CBSE 10th Result 2020</a></td>
-
+<tr> 
+	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
 </tr>
 
 </tbody>
@@ -335,13 +312,6 @@ table {
  <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a></td> 
 </tr>
  
-  <tr>
- <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a></td> 
-</tr>
-  
-   <tr>
- <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a></td> 
-</tr>
  
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
