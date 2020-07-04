@@ -177,6 +177,12 @@ table {
 </tr>
 <tbody class="tbody" >
 	 <tr>
+ <td><a href="http://mpresults.nic.in/mpbse/Xhsc-20/X_class_20.htm"> MP 10th Board Result </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="http://www.exam-result.in/">JAC 11th Board Result </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
  <td> SSC CGL Result<br><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_1_01072020.pdf">List1 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_2_01072020.pdf">List2 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_NR_01072020.pdf">List3 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_Other%20than%20NR_01072020.pdf">List4 |</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	 <tr>
