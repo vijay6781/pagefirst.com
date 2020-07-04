@@ -215,13 +215,7 @@ table {
    <tr>
  <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
 </tr>
-  <tr>
- <td><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/list_32candidates_19062020.pdf"> Download SSC Selection Post (Phase-VII) Additional Result 2020 </a></td>  
-</tr>
-   <tr>
- <td><a href="https://upsc.gov.in/sites/default/files/PublDiscl-IFSM-19-Engl.pdf"> Download UPSC Forest Services (IFS) 2019 Score Card</a></td>  
-</tr>
-   
+ 
  <tr> 
 	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
 </tr>
