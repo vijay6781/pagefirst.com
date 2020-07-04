@@ -215,16 +215,7 @@ table {
    <tr>
  <td><a href="https://upsc.gov.in/sites/default/files/PublDiscl-IFSM-19-Engl.pdf"> Download UPSC Forest Services (IFS) 2019 Score Card</a></td>  
 </tr>
-    <tr>
- <td><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/list_jht2019_16062020.pdf">SSC Junior Hindi Translator 2019 Paper II Result</a></td>  
-</tr>
-     <tr>
- <td><a href="cgpcs.html">CGPSC Pre Result 2020</a>  </td> 
-</tr>
-   <tr>
- <td><a href="bsf2020.html">BSF Constable Result 2020</a> </td>
-
-</tr>
+   
  <tr> 
 	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
 </tr>
@@ -282,18 +273,7 @@ table {
   <tr>
  <td> <a href="ssc cpo2020.html">SSC CPO Sub Inspector Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
-   <tr>
- <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
-</tr>
-  <tr>
- <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
-</tr>
-   <tr>
- <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
-</tr>
-  <tr>
- <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
-  </tr>
+  
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
 </tr>
