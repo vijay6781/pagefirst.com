@@ -357,6 +357,9 @@ table {
 <tr> 
  <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
 </tr>
+<tr> 
+ <td><a href="okay result latestjob.html"></a><span style="color:green">More View</span></td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -369,6 +372,10 @@ table {
   <th scope="col" style="background:rgb(0,255,1)">Bihar/UP Job</th>     
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="https://okayresult.com/Bihar11thadmission.html">OFSS Bihar Inter (11th) Admission Form 2020
+</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
 	<tr>
   
  <td><a href="https://okayresult.com/biharboard2020.html">Bihar Board 12th  Scrutiny Result 2020</a></td>
