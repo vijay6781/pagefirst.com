@@ -176,7 +176,6 @@ table {
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
-	
 	 <tr>
  <td> SSC CGL Result<br><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_1_01072020.pdf">List1 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_2_01072020.pdf">List2 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_NR_01072020.pdf">List3 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_Other%20than%20NR_01072020.pdf">List4 |</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
@@ -345,7 +344,7 @@ table {
 </tr>
  
 <tr> 
-	<td><a href="okay result latestjob.html"><span style="color:green">More View</span></a></td>
+	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
 </tr>
 </tbody>
 </table>
