@@ -234,6 +234,9 @@ table {
 
 <tbody class="tbody" >
 	<tr>
+ <td> <a href="UPPCL.html">UPPCL Account Officer Online Form</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
+	<tr>
  <td> <a href="https://okayresult.com/Bihar11thadmission.html">OFSS Bihar Inter (11th) Admission Form 2020
 </a><span style="color:rgb(255,0,0)">New</span></td>  
 </tr>
@@ -289,6 +292,9 @@ table {
   <th scope="col" style="background:rgb(0,255,1)">Bihar/UP Job</th>     
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="UPPCL.html">UPPCL Account Officer Online Form</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
 	<tr>
  <td> <a href="https://okayresult.com/Bihar11thadmission.html">OFSS Bihar Inter (11th) Admission Form 2020
 </a><span style="color:rgb(255,0,0)">New</span></td>  
