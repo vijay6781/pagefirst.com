@@ -234,6 +234,9 @@ table {
 
 <tbody class="tbody" >
 	<tr>
+ <td> <a href="https://upsconline.nic.in/appmainmenu.php">UPSC Civil Services IAS / IFS Pre Change Exam Center 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
+	<tr>
  <td> <a href="BPSCAEELEC.html">Bihar SHSB Various Post Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
 	<tr>
