@@ -189,28 +189,28 @@ table {
  <td><a href="biharpolice.html">Bihar Police PET PostPond </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 		 <tr>
- <td><a href="https://okayresult.com/biharboard2020.html">Bihar  12th Scrutiny Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="https://okayresult.com/biharboard2020.html">Bihar  12th Scrutiny Result 2020 </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
 	 <tr>
- <td><a href="https://upmsp.edu.in/ResultHighSchoolZXCVMNB.aspx">UP 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="https://upmsp.edu.in/ResultHighSchoolZXCVMNB.aspx">UP 10th Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	 <tr>
- <td><a href="https://upmsp.edu.in/ResultIntermediateZXCVMNB.aspx">UP 12th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="https://upmsp.edu.in/ResultIntermediateZXCVMNB.aspx">UP 12th Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	 <tr>
- <td><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	 <tr>
- <td><a href="https://results.cg.nic.in/node10">CG 10th EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="https://results.cg.nic.in/node10">CG 10th EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	 <tr>
- <td><a href="https://results.cg.nic.in/node12">CG 12th EXAMINATION RESULT 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="https://results.cg.nic.in/node12">CG 12th EXAMINATION RESULT 2020</a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
 	   <tr>
- <td><a href="http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf">Download HSSC Group D 2018 Waiting List</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf">Download HSSC Group D 2018 Waiting List</a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
    <tr>
- <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
    <tr>
  <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
@@ -248,21 +248,21 @@ table {
 </tr>
 	<tr>
  <td> <a href="BiharsepoyHomeguard20.html">Bihar Police Sepoy Constable Form 2020
-</a><span style="color:rgb(255,0,0)">New</span></td>  
+</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
  <td> <a href="https://okayresult.com/ibps.html">IBPS RRB IX Office Assistant Form 2020
-</a><span style="color:rgb(255,0,0)">New</span></td>  
+</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
  <td> <a href="sscjh.html">SSC Junior Hindi Translator Form 2020
-</a><span style="color:rgb(255,0,0)">New</span></td>  
+</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
- <td> <a href="cgciviljudge.html">CGPSC Civil Judge 2019 Mains Online Form</a><span style="color:rgb(255,0,0)">New</span></td>  
+ <td> <a href="cgciviljudge.html">CGPSC Civil Judge 2019 Mains Online Form</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
- <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)">New</span></td>  
+ <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 		<tr>
  <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)">Re-Open</span></td>  
@@ -271,10 +271,10 @@ table {
  <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
- <td> <a href="Bihar Police Lady.html"> Bihar Police Lady Constable 2020  </a><span style="color:rgb(255,0,0)">new</span></td>  
+ <td> <a href="Bihar Police Lady.html"> Bihar Police Lady Constable 2020  </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 		<tr>
- <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)">new</span></td>  
+ <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
