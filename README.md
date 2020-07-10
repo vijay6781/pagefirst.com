@@ -176,6 +176,12 @@ table {
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td><a href="https://results.cisce.org/">ISC Class 12 Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="https://results.cisce.org/"> ICSE Class 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
 	 <tr>
  <td><a href="http://mpresults.nic.in/mpbse/Xhsc-20/X_class_20.htm"> MP 10th Board Result </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
