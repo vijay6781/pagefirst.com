@@ -177,6 +177,9 @@ table {
 </tr>
 <tbody class="tbody" >
 	<tr>
+ <td><a href="http://cbseresults.nic.in/class10/Class10th20.htm">CBSE 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	<tr>
  <td><a href="http://cbseresults.nic.in/cbse2020_asp/class12/Class12th20.htm">CBSE 12th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	<tr>
