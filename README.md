@@ -176,6 +176,12 @@ table {
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
+		<tr>	 
+ <td><a href="http://uaresults.nic.in/home.aspx">Uttrakhand Board Class 10th, 12th Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	<tr>	 
+ <td><a href="http://mahresult.nic.in/sscmarch2020/sscmarch2020.htm">Maharashtra Board 10th Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
 	<tr>
  <td><a href="http://cbseresults.nic.in/class10/Class10th20.htm">CBSE 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
