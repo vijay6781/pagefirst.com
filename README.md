@@ -176,6 +176,9 @@ table {
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
+<tr>	 
+ <td><a href="https://upsc.gov.in/sites/default/files/FR-CSE-2019-040820-ENG.pdf">UPSC Civil Services IAS 2019 Final Result</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
 		<tr>	 
  <td><a href="http://uaresults.nic.in/home.aspx">Uttrakhand Board Class 10th, 12th Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
