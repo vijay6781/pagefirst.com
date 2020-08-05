@@ -1,42 +1,39 @@
 #include <bits/stdc++.h>
 //how many times come in particular number after addition.
-#define ll  int
+#define ll  long long int
+//ll dp[101][101];
 using namespace std;
-ll x=0;
-int sum(ll s[],ll n,ll k){
-   
-    if(k==0){
-           return 0;
-    }
-    else if(n==0){
-        return 1;
-    }
-   else if(s[n-1]>k){
-         sum(s,n-1,k);
-    }
-    else if(s[n-1]<=k){
-       if(sum(s,n-1,k-s[n-1])==0){
-           x++;
-       }
-       sum(s,n-1,k);
-    }
-    return x;
-    
-}
 
 int main() {
-	ll t;
+	ll t,m,n;
+	  string a,b;
 	cin>>t;
 	while(t--){
-	    ll n,k,p=0;
-	    cin>>n;
-	    ll s[n];
-	    for(ll i=0;i<n;i++){
-	        cin>>s[i];
+	    //memset(t1,-1,sizeof(t1));
+	    //memset(dp,-1,sizeof(dp));
+	    cin>>m>>n;
+	    cin>>a>>b;
+	    //ll m=a.size(),n=b.size();
+	    ll dp1[m+1][n+1];
+	    for(ll i=0;i<m+1;i++){
+	        for(ll j=0;j<n+1;j++){
+	            if(i==0 || j==0){
+	                dp1[i][j]=0;
+	            }
+	        }
 	    }
-	    cin>>k;
-	    cout<<sum(s,n,k)<<endl;
-	    x=0;
+	    for(ll i=1;i<m+1;i++){
+	        for(ll j=1;j<n+1;j++){
+	             if(a[i-1]==b[j-1]){
+	               dp1[i][j]=1+dp1[i-1][j-1];
+	            }
+	            else{
+	                dp1[i][j]=max(dp1[i-1][j],dp1[i][j-1]);
+	            }
+	        }
+	    }
+	    cout<<dp1[m][n]<<endl;
+	    
 	}
 	
 }
