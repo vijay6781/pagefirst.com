@@ -37,3 +37,10 @@ int main() {
 	}
 	
 }
+/*input
+1
+4 4 
+asdg
+gasj
+output: 2
+*/
