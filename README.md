@@ -152,12 +152,12 @@ table {
        <a class="nav-link" href="okay result calculator.html">Calculator</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://okayresult.com/okaymeme.html"></a>
+        <a class="nav-link" href="https://okayresult.com/okaymeme.html">Okay-Meme</a>
       </li>
     </ul>
   </div>  
 </nav>
-
+okaymeme.html
   <script async src="https://cse.google.com/cse.js?cx=007234223769253818867:bk17khd0zka"></script>
 <div class="gcse-search"></div>
 
