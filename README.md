@@ -152,7 +152,7 @@ table {
        <a class="nav-link" href="okay result calculator.html">Calculator</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://okayresult.com/okaymeme.html">Okay-Meme</a>
+        <a class="nav-link" href="https://okayresult.com/okaymeme.html"></a>
       </li>
     </ul>
   </div>  
