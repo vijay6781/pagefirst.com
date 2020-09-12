@@ -288,11 +288,7 @@ table {
 </tr>
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
-</tr>
-  <tr>
- <td> <a href="ssc cpo2020.html">SSC CPO Sub Inspector Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
-  
+</tr> 
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
 </tr>
