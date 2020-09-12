@@ -188,28 +188,28 @@ table {
  <td><a href="http://mahresult.nic.in/sscmarch2020/sscmarch2020.htm">Maharashtra Board 10th Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	<tr>
- <td><a href="http://cbseresults.nic.in/class10/Class10th20.htm">CBSE 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="http://cbseresults.nic.in/class10/Class10th20.htm">CBSE 10th Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	<tr>
- <td><a href="http://cbseresults.nic.in/cbse2020_asp/class12/Class12th20.htm">CBSE 12th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="http://cbseresults.nic.in/cbse2020_asp/class12/Class12th20.htm">CBSE 12th Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	<tr>
- <td><a href="https://results.cisce.org/">ISC Class 12 Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="https://results.cisce.org/">ISC Class 12 Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	 <tr>
- <td><a href="https://results.cisce.org/"> ICSE Class 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="https://results.cisce.org/"> ICSE Class 10th Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	 <tr>
- <td><a href="http://mpresults.nic.in/mpbse/Xhsc-20/X_class_20.htm"> MP 10th Board Result </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="http://mpresults.nic.in/mpbse/Xhsc-20/X_class_20.htm"> MP 10th Board Result </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	 <tr>
- <td><a href="http://www.exam-result.in/">JAC 11th Board Result </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="http://www.exam-result.in/">JAC 11th Board Result </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
 	 <tr>
- <td> SSC CGL Result<br><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_1_01072020.pdf">List1 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_2_01072020.pdf">List2 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_NR_01072020.pdf">List3 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_Other%20than%20NR_01072020.pdf">List4 |</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td> SSC CGL Result<br><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_1_01072020.pdf">List1 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_2_01072020.pdf">List2 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_NR_01072020.pdf">List3 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_Other%20than%20NR_01072020.pdf">List4 |</a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
 	 <tr>
- <td><a href="biharpolice.html">Bihar Police PET PostPond </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="biharpolice.html">Bihar Police PET PostPond </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
 		 <tr>
  <td><a href="https://okayresult.com/biharboard2020.html">Bihar  12th Scrutiny Result 2020 </a><span style="color:rgb(255,0,25)"> </span> </td>  
