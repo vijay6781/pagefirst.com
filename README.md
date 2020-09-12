@@ -241,6 +241,9 @@ table {
 
 <tbody class="tbody" >
 	<tr>
+ <td> <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/67426/Instruction.html">UPPCL ARO Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
+	<tr>
  <td> <a href="https://upsconline.nic.in/appmainmenu.php">UPSC Civil Services IAS / IFS Pre Change Exam Center 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
 	<tr>
@@ -305,6 +308,9 @@ table {
   <th scope="col" style="background:rgb(0,255,1)">Statewise</th>     
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/67426/Instruction.html">UPPCL ARO Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
 	<tr>
  <td> <a href="https://rpsc.rajasthan.gov.in/resultsearch?Frm=TYPE2H&Pie=SI_2016_FINAL_11092020">RPSC SI 2016 Final Marks</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
