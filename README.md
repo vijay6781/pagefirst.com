@@ -315,7 +315,7 @@ table {
      <table >
   
 <tr>
-  <th scope="col" style="background:rgb(0,255,1)">Bihar/UP Job</th>     
+  <th scope="col" style="background:rgb(0,255,1)">Statewise</th>     
 </tr>
 <tbody class="tbody" >
 	<tr>
