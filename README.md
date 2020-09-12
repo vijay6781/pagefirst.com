@@ -286,9 +286,7 @@ table {
 		<tr>
  <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
-	<tr>
- <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"></span></td>  
-</tr> 
+	
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
 </tr>
