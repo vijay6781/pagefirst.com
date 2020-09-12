@@ -175,6 +175,9 @@ table {
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
+	<tr>	 
+ <td><a href="https://testservices.nic.in/resultservices/JEEMainP1-Apr20-auth">NTA JEEMAIN Phase II Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
 <tr>	 
  <td><a href="https://upsc.gov.in/sites/default/files/FR-CSE-2019-040820-ENG.pdf">UPSC Civil Services IAS 2019 Final Result</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
@@ -318,6 +321,12 @@ table {
   <th scope="col" style="background:rgb(0,255,1)">Statewise</th>     
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="https://rpsc.rajasthan.gov.in/resultsearch?Frm=TYPE2H&Pie=SI_2016_FINAL_11092020">RPSC SI 2016 Final Marks</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
+	<tr>
+ <td> <a href="http://vidhansabha.bih.nic.in/pdf/recruitment/Results/Results%20of%20advt%20no%2042018.pdf">Bihar Vidhansabha Group D Score Card 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
 	<tr>
  <td> <a href="BPSCAEELEC.html">Bihar SHSB Various Post Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
