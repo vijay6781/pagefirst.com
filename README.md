@@ -275,7 +275,7 @@ table {
  <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 		<tr>
- <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)">Re-Open</span></td>  
+ <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 		<tr>
  <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
@@ -287,7 +287,7 @@ table {
  <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
- <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
+ <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr> 
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
@@ -336,10 +336,10 @@ table {
  <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
    <tr>
- <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+ <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
   <tr>
- <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+ <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 
 </tbody>
