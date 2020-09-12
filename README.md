@@ -185,7 +185,7 @@ table {
  <td><a href="http://uaresults.nic.in/home.aspx">Uttrakhand Board Class 10th, 12th Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	<tr>	 
- <td><a href="http://mahresult.nic.in/sscmarch2020/sscmarch2020.htm">Maharashtra Board 10th Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="http://mahresult.nic.in/sscmarch2020/sscmarch2020.htm">Maharashtra Board 10th Result 2020</a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
 	<tr>
  <td><a href="http://cbseresults.nic.in/class10/Class10th20.htm">CBSE 10th Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
@@ -250,11 +250,11 @@ table {
  <td> <a href="BPSCAEELEC.html">Bihar SHSB Various Post Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
 	<tr>
- <td> <a href="UPPCL.html">UPPCL Account Officer Online Form</a><span style="color:rgb(255,0,0)"> New</span></td>  
+ <td> <a href="UPPCL.html">UPPCL Account Officer Online Form</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
  <td> <a href="https://okayresult.com/Bihar11thadmission.html">OFSS Bihar Inter (11th) Admission Form 2020
-</a><span style="color:rgb(255,0,0)">New</span></td>  
+</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
  <td> <a href="BiharsepoyHomeguard20.html">Bihar Police Sepoy Constable Form 2020
@@ -314,17 +314,17 @@ table {
  <td> <a href="https://rpsc.rajasthan.gov.in/resultsearch?Frm=TYPE2H&Pie=SI_2016_FINAL_11092020">RPSC SI 2016 Final Marks</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
 	<tr>
- <td> <a href="http://vidhansabha.bih.nic.in/pdf/recruitment/Results/Results%20of%20advt%20no%2042018.pdf">Bihar Vidhansabha Group D Score Card 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+ <td> <a href="http://vidhansabha.bih.nic.in/pdf/recruitment/Results/Results%20of%20advt%20no%2042018.pdf">Bihar Vidhansabha Group D Score Card 2020</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
- <td> <a href="BPSCAEELEC.html">Bihar SHSB Various Post Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+ <td> <a href="BPSCAEELEC.html">Bihar SHSB Various Post Online Form 2020</a><span style="color:rgb(255,0,0)"> </span></td>  
 </tr>
 	<tr>
- <td> <a href="UPPCL.html">UPPCL Account Officer Online Form</a><span style="color:rgb(255,0,0)"> New</span></td>  
+ <td> <a href="UPPCL.html">UPPCL Account Officer Online Form</a><span style="color:rgb(255,0,0)"> </span></td>  
 </tr>
 	<tr>
  <td> <a href="https://okayresult.com/Bihar11thadmission.html">OFSS Bihar Inter (11th) Admission Form 2020
-</a><span style="color:rgb(255,0,0)">New</span></td>  
+</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
   
@@ -407,7 +407,7 @@ table {
   
   
    <tr>
- <td><a href="Biharhomeguard.html">Bihar Home Guard Driver PET Admit Card 2020</a> <span style="color:red">New</span> </td> 
+ <td><a href="Biharhomeguard.html">Bihar Home Guard Driver PET Admit Card 2020</a> <span style="color:red"></span> </td> 
 </tr>
   
 <tr>
