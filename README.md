@@ -301,9 +301,12 @@ table {
      <table >
   
 <tr>
-  <th scope="col" style="background:rgb(0,255,1)">Statewise</th>     
+  <th scope="col" style="background:rgb(0,255,1)">Statewise</th>    
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="https://register.cbtexams.in/CGPSC/CivilMains/Registration/Account/Login ">CGPSC Civil Judge Mains Admit Card 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
 	<tr>
  <td> <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/67426/Instruction.html">UPPCL ARO Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
