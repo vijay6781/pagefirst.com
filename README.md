@@ -152,7 +152,7 @@ table {
         <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(ketto)</a>
       </li>
 	    <li class="nav-item">               
-       <a class="nav-link" href="internship_experiance.txt">interview experiance</a>
+       <a class="nav-link" href="internship_experiance.txt">experiance</a>
       </li>
     </ul>
   </div>  
