@@ -222,23 +222,7 @@ table {
 </tr>
 	 <tr>
  <td><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
-</tr>
-	 <tr>
- <td><a href="https://results.cg.nic.in/node10">CG 10th EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
-</tr>
-	 <tr>
- <td><a href="https://results.cg.nic.in/node12">CG 12th EXAMINATION RESULT 2020</a><span style="color:rgb(255,0,25)"> </span> </td>  
-</tr>
-	   <tr>
- <td><a href="http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf">Download HSSC Group D 2018 Waiting List</a><span style="color:rgb(255,0,25)"> </span> </td>  
-</tr>
-   <tr>
- <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> </span> </td>  
-</tr>
-   <tr>
- <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
-</tr>
- 
+	</tr>
  <tr> 
 	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
 </tr>
