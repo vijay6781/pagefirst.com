@@ -532,8 +532,6 @@ setInterval(function(){
 	}
 },2000);
 	</script>
-	
-	
 	<!-- Start pot Embed Code -->
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
 <!-- End of pot Embed Code -->
