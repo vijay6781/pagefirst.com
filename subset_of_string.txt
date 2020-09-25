@@ -1,4 +1,4 @@
-//#subset/power set of string:-
+//# print subset/power set of string:-
 #include<bits/stdc++.h>
 #include<algorithm>
 using namespace std;
