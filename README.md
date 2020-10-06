@@ -176,6 +176,9 @@ table {
 </tr>
 <tbody class="tbody" >
 	<tr>	 
+ <td><a href="http://result.jeeadv.ac.in/">IIT JEE Advanced Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	<tr>	 
  <td><a href="https://testservices.nic.in/resultservices/JEEMainP1-Apr20-auth">NTA JEEMAIN Phase II Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 <tr>	 
