@@ -134,7 +134,7 @@ table {
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">               
-       <a class="nav-link" href="okay result latestjob.html">Latest Jobs</a>
+       <a class="nav-link" href="okay result latestjob.html"><span style="color:rgb(255,0,25)">Latest Jobs</span></a>
       </li>
       <li class="nav-item">               
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
