@@ -127,32 +127,32 @@ table {
   
   
   <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(0,255,255)">
-	<a class="navbar-brand" href="#"><span style="color:rgb(255,0,25)">Home</span></a>
+	<a class="navbar-brand" href="#"><span style="color:rgb(255,0,0)">Home</span></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">               
-       <a class="nav-link" href="okay result latestjob.html"><span style="color:rgb(255,0,25)">Latest Jobs</span></a>
+       <a class="nav-link" href="okay result latestjob.html"><span style="color:rgb(25,255,1)">Latest Jobs</span></a>
       </li>
       <li class="nav-item">               
-       <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
+       <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255,20,147)">India Corona</span> </a>
 	    </li>
        <li class="nav-item">
-        <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
+        <a class="nav-link" href="http://www.nitrr.ac.in/"><span style="color:rgb(255,20,147)">NITRR</span></a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="photos.html">Gallery</a>
+	       <a class="nav-link" href="photos.html"><span style="color:rgb(255,20,147)">Gallery</span></a>
       </li>
        <li class="nav-item">               
-       <a class="nav-link" href="okaymeme.html">Okay-Meme</a>
+	       <a class="nav-link" href="okaymeme.html"><span style="color:rgb(255,20,147)">Okay-Meme</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(ketto)</a>
+        <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers"><span style="color:rgb(255,20,147)">Donate(ketto)</span></a>
       </li>
 	    <li class="nav-item">               
-       <a class="nav-link" href="internship_experiance.txt">experiance</a>
+       <a class="nav-link" href="internship_experiance.txt"><span style="color:rgb(255,20,147)">experiance</span></a>
       </li>
     </ul>
   </div>  
