@@ -474,6 +474,10 @@ table {
  <td><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">Lecture Notes on Data Structure</a></td>
   
 </tr>
+<tr> 
+ <td><a href="https://drive.google.com/file/d/19N5nPEvWYvUZxhxTPzTpmM-FnyhgHTAy/view?usp=drivesdk">Mathematics Formula</a></td>
+  
+</tr>
 </tbody>
 </table >
 </div>
