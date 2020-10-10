@@ -1,0 +1,29 @@
+{
+  "name": "VJCHROME",
+  "version": "1.0",
+  "description": "OPEN_SOURCE1!",
+  "manifest_version": 2,
+  
+  "icons": {
+    "128": "assets/32.png"
+  },
+  "permissions":[
+       "<all_urls>",
+       "contextMenus",
+       "tabs"
+  ],
+  "content_scripts": [{
+    "run":"document_start",
+    "matches":[ "<all_urls>",
+      "https://okayresult.com/*"
+    ],
+    "js": ["app/src/content.js"]}],
+    "background": {
+      "persistent": false,
+      "scripts": [
+       "background.js"
+        
+      ]
+    }
+    
+}
