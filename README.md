@@ -474,10 +474,7 @@ table {
  <td><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">Lecture Notes on Data Structure</a></td>
   
 </tr>
-<tr> 
- <td><a href="https://okayresult.com/manifest.json">manifest.json</a></td>
-  
-</tr>
+
 <tr> 
  <td><a href="https://drive.google.com/file/d/19FaAx7APkC3q23r3EnrNmQb2k9P6tW2M/view?usp=drivesdk">Mathematics Formula</a></td>
   
