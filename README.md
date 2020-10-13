@@ -495,7 +495,8 @@ table {
       <div class="text-center ml-5 mr-5 mb-1 mt-3"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
 	    
 	    
-<div class="text-center ml-5 mr-5 mb-1 mt-1"><h3><span class="badge badge-primary  mr-1" style="background:rgb(51, 255, 51)"><a href="http://bit.ly/33D9ERpsbws"><em>suggestion-</em>Apply for internship on MYCAPTAIN</a></span></h3></div>
+<div class="text-center ml-5 mr-5 mb-1 mt-1"><h3><span class="badge badge-primary  mr-1" style="background:rgb(51, 255, 51)"><a href="http://bit.ly/33D9ERpsbws"><em>suggestion-</em>Apply for intern(mycaptain)</a><br>
+	<a href="https://www.mycaptain.in/">More Know</a></span></h3></div>
 
 
 	    
