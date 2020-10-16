@@ -166,7 +166,7 @@
         $newslist = json_decode(file_get_contents($api_url));
       }else{
         $news_keyword = 'politics'; //we will be fetching only sports related news
-        $api_url = 'http://newsapi.org/v2/everything?q='.$news_keyword.'&from=2020-02-26&sortBy=publishedAt&apiKey=e935ddb73b0147458f29105d83c0c535';
+        $api_url = 'http://newsapi.org/v2/everything?q='.$news_keyword.'&from=2020-02-26&sortBy=publishedAt&apiKey=9f03c3a4e3dd466e90bc10c0b6651a69';
         $newslist = file_get_contents($api_url);
         file_put_contents('news.json', $newslist);
         $newslist = json_decode($newslist);
