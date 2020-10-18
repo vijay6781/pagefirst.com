@@ -9,7 +9,7 @@
   <meta name="rating" content="general">
   <meta name="distribution" content="global">
   <link rel="canonical" href="https://okayresult.com/">
-   <link rel="shortcut icon" href="vi_git/okay.png">	
+   <link rel="shortcut icon" href="vjgit_image/okay.png">	
 	
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
