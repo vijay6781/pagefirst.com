@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Vijay Kumar</title>
+  <meta name="description" content="Vijay Kumar | National Institute of Technology Raipur">
+  <meta name="author" content="vijay Kumar" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" media="screen" href="css/style.css">
+  
+  <link rel="shortcut icon" href="portfolio/images/vijay.png">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"> -->
+</head>
+<body>
+
+<a href="http://www.bestcss.in/user/detail/....SumitKumar-10785" style="width:106px;height:92px;position:fixed;top:0px;left:0px;z-index:99999;text-indent:-9999px;background: url(http://www.bestcss.in/ribbons/gray-left.png) no-repeat;" target="_blank">Best CSS Web Gallery</a>
+
+<!-- particles - js container -->
+  <div id="particles-js" >
+      <div id="menu">
+        <a class="dsp" href="">Home</a>
+        <a href="coming_soon.html">Blog</a>
+        <a href="portfolio/images/vijay_kumar.pdf">Resume</a>
+        <a class="dsp" href="">Contact</a>
+      </div>
+      <div id="intro">
+          <div id="photo">
+            <img src="portfolio/images/profile.jpeg">
+          </div>
+            <h2>Vijay  Kumar&nbsp</h2>
+        
+          
+          <a href="https://www.instagram.com/vijaykmar9482/?hl=en" style="color: white;"><i class="fab fa-instagram"></i></a>
+
+          <a href="https://www.facebook.com/profile.php?id=100027906523727" style="color: white;"><i class="fab fa-facebook"></i></a>
+ 
+         <a href="https://www.linkedin.com/in/vijay-kumar-3b72a7184/" style="color: white;"><i class="fab fa-linkedin"></i></a> 
+        <a href="https://github.com/vijay6781" style="color: white;"><i class="fab fa-github"></i></a>
+          <a href="" style="color: white;"><i class="fab fa-twitter-square" ></i></a>
+          <a href="mailto:kumarviju785@gmail.com" style="color: white;"><i class="fas fa-envelope" ></i></a>
+          <a href="" style="color: white;"><i class="fa fa-code"></i></a>
+      </div>
+  </div>
+
+<!-- scripts -->
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script> -->
+            
+<!-- stats.js -->
+<!-- <script src="js/lib/stats.js"></script> -->
+<script>
+  var count_particles, stats, update;
+  stats = new Stats;
+  stats.setMode(0);
+  stats.domElement.style.position = 'absolute';
+  stats.domElement.style.left = '0px';
+  stats.domElement.style.top = '0px';
+  document.body.appendChild(stats.domElement);
+  count_particles = document.querySelector('.js-count-particles');
+  update = function() {
+    stats.begin();
+    stats.end();
+    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+    }
+    requestAnimationFrame(update);
+  };
+  requestAnimationFrame(update);
+</script>
+
+</body>
+</html>
