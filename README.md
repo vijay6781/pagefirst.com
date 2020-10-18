@@ -6,11 +6,16 @@
   <meta charset="utf-8">
   <meta name="description" content="Okay result, Okay Results,okresult,okayresult, Sarkari Results, ओके रिजल्ट, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms,Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job,Specially fast Job Result,Bihar/up Result by #Okay Result.">
   <meta name="keywords" content="Okay Result,OkayResUlt, OKResult, okayresult, Sarkariresult, Sarkari, Sarkariresults">
- <link rel="shortcut icon" href="vjgit_image/okay.png">	
+ <link rel="canonical" href="https://okayresult.com/">	
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="rating" content="general">
   <meta name="distribution" content="global">
-  <link rel="canonical" href="https://okayresult.com/">	
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" media="screen" href="css/style.css">
+  <link rel="shortcut icon" href="vjgit_image/okay.png">	
+	
+  
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
