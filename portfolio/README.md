@@ -1,2 +1,2 @@
-# https://okayresult.com/portfolio/
-[Screenshot](vijay.png)
+# vijay6781.github.io
+[Screenshot](screenshot.png)
