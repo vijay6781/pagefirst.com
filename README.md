@@ -139,25 +139,25 @@ table {
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
-      <li class="nav-item">               
+      <li class="nav-item active">               
        <a class="nav-link" href="okay result latestjob.html">Latest Jobs</a>
       </li>
-      <li class="nav-item">               
+      <li class="nav-item active">               
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
 	    </li>
-       <li class="nav-item">
+       <li class="nav-item active">
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
-       <li class="nav-item">
+       <li class="nav-item active">
         <a class="nav-link" href="photos.html">Gallery</a>
       </li>
-       <li class="nav-item">               
+       <li class="nav-item active">               
        <a class="nav-link" href="okaymeme.html">Okay-Meme</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item active">
         <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(ketto)</a>
       </li>
-	    <li class="nav-item">               
+	    <li class="nav-item active">               
        <a class="nav-link" href="internship_experiance.txt">experiance</a>
       </li>
     </ul>
