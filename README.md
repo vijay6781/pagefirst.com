@@ -12,7 +12,7 @@
   <meta name="distribution" content="global">
 	
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-   <link rel="stylesheet" media="screen" href="portfolio/css/style.css">
+   <link rel="stylesheet" media="screen" href="css/style.css">
   <link rel="shortcut icon" href="vjgit_image/okay.png">	
 	
   
