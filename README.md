@@ -507,7 +507,7 @@ table {
 	    
 <div class="content_area">
 <div class="container ">
- <div class=" bg-white border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
+ <div class=" bg-white border border-danger ml-3 mr-2 mt-2"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
 	 <p><strong>Okay Result</strong> provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you latest Sarkari job as well as sarkari result. <br></p>
    <h3><a href="https://okayresult.com/"><span style="color:red"> www.okayresult.com</span></a></h3>
     </div>     
