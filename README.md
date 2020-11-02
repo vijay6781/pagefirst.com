@@ -501,8 +501,7 @@ table {
       <div class="text-center ml-5 mr-5 mb-1 mt-3"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
 	    
  	    
-<!---div class="text-center ml-5 mr-5 mb-1 mt-1"><h3><span class="badge badge-primary  mr-1" style="background:rgb(51, 255, 51)"><a href="https://docs.google.com/forms/d/1vVde_FDXtE52dYhVPu52gC_vSdouIXr5hzTzM537vhQ/viewform?edit_requested=true"><em>sug:-</em>Workshop-mycaptain </a><br>
-	<a href="https://www.mycaptain.in/all-access/?submissionGuid=f627f38a-62aa-429d-9e91-bc9bb1dd15d9">view more(35+ courses)</a></span></h3></div>
+
 
 
 	    
