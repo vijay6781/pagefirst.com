@@ -571,7 +571,7 @@ setInterval(function(){
 
 
 
-<div class="content_area text-center" style="background:rgba(175, 250, 177,0.3)">
+<div class="content_area text-center" style="background:rgb(175, 250, 177)">
    <script id="dsq-count-scr" src="//okay-result.disqus.com/count.js" async></script>
   <div id="disqus_thread"></div>
 <script>
