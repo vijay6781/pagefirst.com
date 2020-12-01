@@ -572,7 +572,7 @@ setInterval(function(){
 
 <script id="dsq-count-scr" src="//okay-result.disqus.com/count.js" async></script>
 <div id="disqus_thread"></div>
-<div class="bg-secondary">
+<div class="bg-success">
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
