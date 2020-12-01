@@ -572,6 +572,7 @@ setInterval(function(){
 
 <script id="dsq-count-scr" src="//okay-result.disqus.com/count.js" async></script>
 <div id="disqus_thread"></div>
+<div class="bg-secondary">
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -589,6 +590,7 @@ setInterval(function(){
     (d.head || d.body).appendChild(s);
     })();
 </script>
+</div>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </body>
 </html>
