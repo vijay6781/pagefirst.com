@@ -132,7 +132,7 @@ table {
 </div>
   
   
-  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(200, 254, 7)">
+  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(51, 153, 255)">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
@@ -159,7 +159,7 @@ table {
       </li>
 	<li class="nav-item dropdown active">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-           link
+           Impo-link
         </a>
         <div class="dropdown-menu" aria-labelledby="Links">
           <a class="dropdown-item" href="http://www.nitrr.ac.in/syllabus.php">NIT Raipur Syllabus</a>
