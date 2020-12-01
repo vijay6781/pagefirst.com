@@ -570,9 +570,10 @@ setInterval(function(){
 <!-- End of pot Embed Code -->
 
 
-<script id="dsq-count-scr" src="//okay-result.disqus.com/count.js" async></script>
-<div id="disqus_thread"></div>
-<div class="bg-success">
+
+<div class="content_area text-center" style="background:rgba(255, 255, 25,0.2)">
+   <script id="dsq-count-scr" src="//okay-result.disqus.com/count.js" async></script>
+  <div id="disqus_thread"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -590,7 +591,7 @@ setInterval(function(){
     (d.head || d.body).appendChild(s);
     })();
 </script>
-</div>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript"></a></noscript>
+  </div>
 </body>
 </html>
