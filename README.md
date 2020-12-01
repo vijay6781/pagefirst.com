@@ -568,5 +568,8 @@ setInterval(function(){
 	<!-- Start of pot Embed Code -->
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
 <!-- End of pot Embed Code -->
+
+
+<script id="dsq-count-scr" src="//okay-result.disqus.com/count.js" async></script>
 </body>
 </html>
