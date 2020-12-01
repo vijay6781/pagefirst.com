@@ -157,17 +157,16 @@ table {
       <li class="nav-item active">
         <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(ketto)</a>
       </li>
-	    <li class="nav-item active">               
-       <a class="nav-link" href="internship_experiance.txt">experiance</a>
-      </li>
 	<li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Dropdown link
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
+        <div class="dropdown-menu" aria-labelledby="Links">
+          <a class="dropdown-item" href="http://www.nitrr.ac.in/syllabus.php">NIT Raipur Syllabus</a>
+          <a class="dropdown-item" href="http://www.nitrr.ac.in/acad_downloads.php">Nitrr calender/Notice</a>
+	 <a class="dropdown-item" href="http://www.nitrr.ac.in/results.php">Nitrr result</a>
+	<a class="dropdown-item" href="internship_experiance.txt">company-experiance</a>	
+	 	
         </div>
 	    </li>
     </ul>
