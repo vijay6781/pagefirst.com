@@ -10,16 +10,7 @@
 
 firebase.initializeApp(config);
 */
-var firebaseConfig = {
-    apiKey: "AIzaSyDa07Rcw9o_2qcmcc6Yuw5_uHv882NfbXk",
-    authDomain: "web-login-ff14c.firebaseapp.com",
-    databaseURL: "https://web-login-ff14c.firebaseio.com",
-    projectId: "web-login-ff14c",
-    storageBucket: "web-login-ff14c.appspot.com",
-    messagingSenderId: "382020008280",
-    appId: "1:382020008280:web:af90568116e657ecad4d2d",
-    measurementId: "G-DH66LQTVPG"
-  };
+
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
