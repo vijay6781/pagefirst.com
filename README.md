@@ -131,20 +131,21 @@ table {
 .resp-sharing-button__link {
   text-decoration: none;
   color: #fff;
-  margin: 0.1em
+  margin: 0.05em
 }
 
 .resp-sharing-button {
   border-radius: 15px;
   transition: 25ms ease-out;
-  padding: 0.3em 0.45em;
+  padding: 0.35em 0.35em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif
 }
 
 .resp-sharing-button__icon svg {
   width: 1em;
   height: 1em;
-  margin-right: 0.4em;
+  margin-right: 0.1em;
+  margin-bottom:0.4em;
   vertical-align: top
 }
 
