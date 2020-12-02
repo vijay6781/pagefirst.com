@@ -131,13 +131,13 @@ table {
 .resp-sharing-button__link {
   text-decoration: none;
   color: #fff;
-  margin: 0.2em
+  margin: 0.1em
 }
 
 .resp-sharing-button {
-  border-radius: 5px;
+  border-radius: 15px;
   transition: 25ms ease-out;
-  padding: 0.3em 0.65em;
+  padding: 0.3em 0.45em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif
 }
 
