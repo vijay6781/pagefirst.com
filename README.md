@@ -137,7 +137,7 @@ table {
 .resp-sharing-button {
   border-radius:15px;
   transition: 25ms ease-out;
-  padding: 0.35em 0.40em;
+  padding: 0.35em 0.35em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif
 }
 
