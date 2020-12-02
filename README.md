@@ -135,7 +135,7 @@ table {
 }
 
 .resp-sharing-button {
-  border-radius: 15px;
+  border-radius: 20px;
   transition: 25ms ease-out;
   padding: 0.35em 0.35em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif
@@ -779,7 +779,7 @@ setInterval(function(){
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
 <!-- End of pot Embed Code -->
 
-
+<br>
 <!-- Sharingbutton Facebook -->
 <a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fokayresult.com%2F" target="_blank" rel="noopener" aria-label="Facebook">
   <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--medium"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
