@@ -1,58 +1,115 @@
-body {
-  background: #fff;
-  padding: 0px;
-  margin: 0px;
-  font-family: 'Nunito', sans-serif;
-  font-size: 16px;
+*{
+  box-sizing: border-box;
 }
 
-input, button {
-  font-family: 'Nunito', sans-serif;
-  font-weight: 700;
+body{
+  background:#92bde7;
+  color:#485e74;
+  line-height:1.6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding:1em;
 }
 
-.main-div, .loggedin-div {
-  width: 20%;
-  margin: 0px auto;
-  margin-top: 150px;
-  padding: 20px;
-  display: none;
+.container{
+  max-width:1170px;
+  margin-left:auto;
+  margin-right:auto;
+  padding:1em;
 }
 
-.main-div input {
-  display: block;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background: #fff;
-  padding: 15px;
-  outline: none;
-  width: 100%;
-  margin-bottom: 20px;
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  -moz-transition: 0.3s;
+ul{
+  list-style: none;
+  padding:0;
 }
 
-.main-div input:focus {
-  border: 1px solid #777;
+.brand{
+  text-align: center;
 }
 
-.main-div button, .loggedin-div button {
-  background: #5d8ffc;
-  color: #fff;
-  border: 1px solid #5d8ffc;
-  border-radius: 5px;
-  padding: 15px;
-  display: block;
-  width: 100%;
-  transition: 0.3s;
-  -webkit-transition: 0.3s;
-  -moz-transition: 0.3s;
+.brand span{
+  color:#fff;
 }
 
-.main-div button:hover, .loggedin-div button:hover {
-  background: #fff;
-  color: #5d8ffc;
-  border: 1px solid #5d8ffc;
-  cursor: pointer;
+.wrapper{
+  box-shadow: 0 0 20px 0 rgba(72,94,116,0.7);
+}
+
+.wrapper > *{
+  padding: 1em;
+}
+
+.company-info{
+  background:#c9e6ff;
+}
+
+.company-info h3, .company-info ul{
+  text-align: center;
+  margin:0 0 1rem 0;
+}
+
+.contact{
+  background:#f9feff;
+}
+
+/* FORM STYLES */
+.contact form{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap:20px;
+}
+
+.contact form label{
+  display:block;
+}
+
+.contact form p{
+  margin:0;
+}
+
+.contact form .full{
+  grid-column: 1 / 3;
+}
+
+.contact form button, .contact form input, .contact form textarea{
+  width:100%;
+  padding:1em;
+  border:1px solid #c9e6ff;
+}
+
+.contact form button{
+  background:#c9e6ff;
+  border:0;
+  text-transform: uppercase;
+}
+
+.contact form button:hover,.contact form button:focus{
+  background:#92bde7;
+  color:#fff;
+  outline:0;
+  transition: background-color 2s ease-out;
+}
+
+.alert{
+  text-align: center;
+  padding:10px;
+  background:#79c879;
+  color:#fff;
+  margin-bottom:10px;
+  display:none;
+}
+
+/* LARGE SCREENS */
+@media(min-width:700px){
+  .wrapper{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+  }
+
+  .wrapper > *{
+    padding:2em;
+  }
+
+  .company-info h3, .company-info ul, .brand{
+    text-align: left;
+  }
 }
