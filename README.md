@@ -343,7 +343,7 @@ background-color: #FF6600
   
   
   <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(51, 153, 255)">
-  <a class="navbar-brand" href="#">Home</a>
+  <a class="navbar-brand" href="https://okayresult.com/Login%20Page/">Login</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
