@@ -1,198 +1,122 @@
 <html>
-<head>
-  <title>Firebase Login</title>
-  <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
-  <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-auth.js"></script>
-  
-  <script>
-   firebase.initializeApp(firebaseConfig);
-  firebase.analytics();
-// Reference messages collection
-var messagesRef = firebase.database().ref('messages');
+  <head>
+    <title>My project</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
-// Listen for form submit
-document.getElementById('contactForm').addEventListener('submit', submitForm);
+    	<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171018261-1"></script>
 
-// Submit form
-function submitForm(e){
-  e.preventDefault();
-
-  // Get values
-  var name = getInputVal('name');
-  var company = getInputVal('company');
-  var email = getInputVal('email');
-  var phone = getInputVal('phone');
-  var message = getInputVal('message');
-
-  // Save message
-  saveMessage(name, company, email, phone, message);
-
-  // Show alert
-  document.querySelector('.alert').style.display = 'block';
-
-  // Hide alert after 3 seconds
-  setTimeout(function(){
-    document.querySelector('.alert').style.display = 'none';
-  },3000);
-
-  // Clear form
-  document.getElementById('contactForm').reset();
+      <style media="screen">
+      .forms-out {
+margin: 0 auto;
+font-family: "Fira Sans", sans-serif;
+padding: 15px 0;
 }
 
-// Function to get get form values
-function getInputVal(id){
-  return document.getElementById(id).value;
+.forms-in {
+width: 93%;
+margin: 0 auto;
+color: white;
+padding: 15px 0;
 }
 
-// Save message to firebase
-function saveMessage(name, company, email, phone, message){
-  var newMessageRef = messagesRef.push();
-  newMessageRef.set({
-    name: name,
-    company:company,
-    email:email,
-    phone:phone,
-    message:message
-  });
-}  
-    
-  </script>
-</head>
-  <style type="text/css">
-    *{
-  box-sizing: border-box;
+.forms-in div {
+padding: 30px 20px;
+max-width: 350px;
+margin: 0 auto;
+background: #168ab8;
+border-radius: 5px;
+margin-bottom: 15px;
 }
 
-body{
-  background:#92bde7;
-  color:#485e74;
-  line-height:1.6;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  padding:1em;
+.forms-in h3 {
+text-align: center;
 }
 
-.container{
-  max-width:1170px;
-  margin-left:auto;
-  margin-right:auto;
-  padding:1em;
+.forms-in input {
+border: none;
+width: 100%;
+margin-bottom: 15px;
+padding: 10px;
+box-sizing: border-box;
+border-radius: 3px;
 }
 
-ul{
-  list-style: none;
-  padding:0;
+.forms-in button {
+border: none;
+padding: 7px 20px;
+background: #e8f8ff;
+color: #168ab8;
+border-radius: 4px;
+cursor: pointer;
+font-weight: bold;
 }
 
-.brand{
-  text-align: center;
+.forms-in button:hover {
+opacity: 0.7;
 }
 
-.brand span{
-  color:#fff;
+.hide {
+display: none;
 }
 
-.wrapper{
-  box-shadow: 0 0 20px 0 rgba(72,94,116,0.7);
+#forgot-password {
+text-align: center;
+font-size: 13                                                               px;
+cursor: pointer;
 }
 
-.wrapper > *{
-  padding: 1em;
+#forgot-password:hover {
+opacity: 0.7;
 }
+    </style>
 
-.company-info{
-  background:#c9e6ff;
-}
+  </head>
+  <body>
+    <div class="forms-out">
+      <div class="forms-in">
+        <div id="registration-page" class="hide">
+          <button id="show-login">Sign In</button>
+          <h3>Sign Up</h3>
+          Email <br />
+          <input type="email" id="registration-email" /><br />
+          Confirm Email <br />
+          <input
+          type="email"
+          id="registration-reemail"
+          autocomplete="disable"
+          /><br />
+          Password <br />
+          <input type="password" id="registration-password" /><br />
+          <center><button id="register">Sign Up</button></center>
+        </div>
 
-.company-info h3, .company-info ul{
-  text-align: center;
-  margin:0 0 1rem 0;
-}
+        <div id="login-page">
+          <button id="show-register">Sign Up</button>
+          <h3>Sign In</h3>
+          Email <br />
+          <input type="email" id="login-email" /><br />
+          Password <br />
+          <input type="password" id="login-password" /><br />
+          <p id="forgot-password">Forgot Password</p>
+          <center><button id="login">Sign In</button></center>
+        </div>
 
-.contact{
-  background:#f9feff;
-}
-
-/* FORM STYLES */
-.contact form{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap:20px;
-}
-
-.contact form label{
-  display:block;
-}
-
-.contact form p{
-  margin:0;
-}
-
-.contact form .full{
-  grid-column: 1 / 3;
-}
-
-.contact form button, .contact form input, .contact form textarea{
-  width:100%;
-  padding:1em;
-  border:1px solid #c9e6ff;
-}
-
-.contact form button{
-  background:#c9e6ff;
-  border:0;
-  text-transform: uppercase;
-}
-
-.contact form button:hover,.contact form button:focus{
-  background:#92bde7;
-  color:#fff;
-  outline:0;
-  transition: background-color 2s ease-out;
-}
-
-.alert{
-  text-align: center;
-  padding:10px;
-  background:#79c879;
-  color:#fff;
-  margin-bottom:10px;
-  display:none;
-}
-
-/* LARGE SCREENS */
-@media(min-width:700px){
-  .wrapper{
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-  }
-
-  .wrapper > *{
-    padding:2em;
-  }
-
-  .company-info h3, .company-info ul, .brand{
-    text-align: left;
-  }
-}    
-    
-  </style>  
-<body>
-
-  <div id="login_div" class="main-div">
-    <h3> Web login </h3>
-    <input type="email" placeholder="Email..." id="email_field" />
-    <input type="password" placeholder="Password..." id="password_field" />
-
-    <button onclick="login()">Login to Account</button>
+        <div id="homepage" class="hide">
+          <button id="signout">Sign Out</button>
+          <h3>Logged In</h3>
+        </div>
+      </div>
   </div>
 
-  <div id="user_div" class="loggedin-div">
-    <h3>Welcome User</h3>
-    <p id="user_para">Welcome to Firebase web login Example. You're currently logged in.</p>
-    <button onclick="logout()">Logout</button>
-  </div>
-<!-- The core Firebase JS SDK is always required and must be listed first -->
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/5.10.1/firebase.js"></script>
+
+
 
 <script>
   // Your web app's Firebase configuration
@@ -205,12 +129,176 @@ ul{
     messagingSenderId: "382020008280",
     appId: "1:382020008280:web:af90568116e657ecad4d2d"
   };
+  // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
+  function RegisterUser() {
+    var email=document.getElementById('email').value;
+    var password=document.getElementById('password').value;
+    firebase.auth().createUserWithEmailAndPassword(email,password).then(function(){
+      alert("New User Registration Successfully");
+    }).catch(function(error){
+      var errorcode=error.code;
+    var errormsg=error.message;
+
+    });
+  }
+  </script>
+<script type="text/javascript">
+
+
+
+ const auth = firebase.auth();
+ document.querySelector("#show-register").addEventListener("click", () => {
+showRegistration();
+});
+
+const showRegistration = () => {
+document.querySelector("#registration-page").classList.remove("hide");
+document.querySelector("#login-page").classList.add("hide");
+document.querySelector("#homepage").classList.add("hide");
+};
+
+document.querySelector("#show-login").addEventListener("click", () => {
+showLogin();
+});
+
+const showLogin = () => {
+document.querySelector("#registration-page").classList.add("hide");
+document.querySelector("#login-page").classList.remove("hide");
+document.querySelector("#homepage").classList.add("hide");
+};
+
+document.querySelector("#signout").addEventListener("click", () => {
+signOut();
+});
+
+const register = () => {
+const email = document.querySelector("#registration-email").value;
+const reemail = document.querySelector("#registration-reemail").value;
+const password = document.querySelector("#registration-password").value;
+
+if (email.trim() == "") {
+    alert("Enter Email");
+} else if (password.trim().length < 7) {
+    alert("Password must be at least 7 characters");
+} else if (email != reemail) {
+    alert("emails do not match");
+} else {
+    auth
+    .createUserWithEmailAndPassword(email, password)
+    .catch(function (error) {
+        // Handle Errors here.
+        var errorCode = error.code;
+        var errorMessage = error.message;
+        alert(errorMessage);
+        // ...
+    });
+}
+};
+
+document.querySelector("#register").addEventListener("click", () => {
+register();
+});
+
+//register when you hit the enter key
+document
+.querySelector("#registration-password")
+.addEventListener("keyup", (e) => {
+    if (event.keyCode === 13) {
+    e.preventDefault();
+
+    register();
+    }
+});
+
+const login = () => {
+const email = document.querySelector("#login-email").value;
+const password = document.querySelector("#login-password").value;
+
+if (email.trim() == "") {
+    alert("Enter Email");
+} else if (password.trim() == "") {
+    alert("Enter Password");
+} else {
+    authenticate(email, password);
+}
+};
+
+document.querySelector("#login").addEventListener("click", () => {
+login();
+});
+
+//sign in when you hit enter
+document
+.querySelector("#login-password")
+.addEventListener("keyup", (e) => {
+    if (event.keyCode === 13) {
+    e.preventDefault();
+
+    login();
+    }
+});
+
+const authenticate = (email, password) => {
+const auth = firebase.auth();
+auth.signInWithEmailAndPassword(email, password);
+firebase
+    .auth()
+    .signInWithEmailAndPassword(email, password)
+    .catch(function (error) {
+    // Handle Errors here.
+    var errorCode = error.code;
+    var errorMessage = error.message;
+    alert(errorMessage);
+    });
+};
+
+const showHomepage = () => {
+  document.querySelector("#registration-page").classList.add("hide");
+  document.querySelector("#login-page").classList.add("hide");
+  document.querySelector("#homepage").classList.remove("hide");
+};
+
+const signOut = () => {
+firebase
+    .auth()
+    .signOut()
+    .then(function () {
+    location.reload();
+    })
+    .catch(function (error) {
+    alert("error signing out, check network connection");
+    });
+};
+
+auth.onAuthStateChanged((firebaseUser) => {
+if (firebaseUser) {
+    showHomepage();
+}
+});
+
+document
+.querySelector("#forgot-password")
+.addEventListener("click", () => {
+    const email = document.querySelector("#login-email").value;
+    if (email.trim() == "") {
+    alert("Enter Email");
+    } else {
+    forgotPassword(email);
+    }
+});
+
+const forgotPassword = (email) => {
+auth
+    .sendPasswordResetEmail(email)
+    .then(function () {
+    alert("email sent");
+    })
+    .catch(function (error) {
+    alert("invalid email or bad network connection");
+    });
+};
 </script>
 
-
-
-
-
-</body>
+  </body>
 </html>
