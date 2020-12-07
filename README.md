@@ -375,8 +375,7 @@ background-color: #FF6600
           <a class="dropdown-item" href="http://www.nitrr.ac.in/syllabus.php">NIT Raipur Syllabus</a>
           <a class="dropdown-item" href="http://www.nitrr.ac.in/acad_downloads.php">Nitrr Calender/Notice</a>
 	 <a class="dropdown-item" href="http://www.nitrr.ac.in/results.php">Nitrr Result</a>
-	<a class="dropdown-item" href="internship_experiance.txt">company-experiance</a>	
-	 	
+	<a class="dropdown-item" href="internship_experiance.txt">company-experiance</a>	 	
         </div>
 	    </li>
     </ul>
