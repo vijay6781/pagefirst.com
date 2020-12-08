@@ -13,7 +13,7 @@
 	
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
    <link rel="stylesheet" media="screen" href="css/style.css">
-  <link rel="shortcut icon" href="vjgit_image/okay.png">	
+  <link rel="shortcut icon" href="portfolio/images/vijay.png">	
 	
   
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
