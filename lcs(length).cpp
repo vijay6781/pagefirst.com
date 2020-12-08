@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-//how many times come in particular number after addition.
+//Longest common subsequence
 #define ll  long long int
 //ll dp[101][101];
 using namespace std;
