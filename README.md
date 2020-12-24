@@ -825,7 +825,7 @@ setInterval(function(){
 
 
 
-<div class="content_area text-center" style="background:rgb(175, 250, 177)">
+<!----div class="content_area text-center" style="background:rgb(175, 250, 177)">
    <script id="dsq-count-scr" src="//okay-result.disqus.com/count.js" async></script>
   <div id="disqus_thread"></div>
 <script>
@@ -846,6 +846,6 @@ setInterval(function(){
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript"></a></noscript>
-  </div>
+  </div----->
 </body>
 </html>
