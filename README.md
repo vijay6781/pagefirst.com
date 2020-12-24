@@ -468,6 +468,9 @@ background-color: #FF6600
 
 <tbody class="tbody" >
 	<tr>
+ <td> <a href="http://uppsc.up.nic.in/Notifications.aspx">UPPSC Various Post Online Form 2021</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
+	<tr>
  <td> <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/67426/Instruction.html">UPPCL ARO Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
 	<tr>
