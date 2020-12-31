@@ -130,13 +130,14 @@ canvas{
   top: 75%;
   padding: 0 10px;
   width: 100%;
+  margin-top: 25px;
   align-items: center;
   text-align: center;
 }
 
 #photo{
-  align-items: center;
-  margin: 20px;
+  align-items:center;
+  margin: 50px;
 }
 
 #photo img{
