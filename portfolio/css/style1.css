@@ -142,10 +142,10 @@ canvas{
 
 #photo img{
   /* display: block; */
-  border-radius: 50%;
+  border-radius: 20%;
   max-height: 150px;
   width: auto;
-  border: 4px solid white;
+  border: 3px solid white;
 }
 
 #photo img:hover{
