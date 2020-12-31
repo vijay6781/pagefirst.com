@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>HAPPY NEW YEAR</title>
+    <style>
+         body {
+background: #FEAC5E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   font-family: 'Roboto', sans-serif;  position: relative; 
+  }
+        h1 {
+            color: green;
+            margin-top: 250px;
+            font-size: 50px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<h1 id="messageLabel"></h1>
+ 
+<script>
+var message = "Happy New Year 2021";
+var msgCount = 0;
+var blinkCount = 0;
+var blinkFlg = 0;
+var timer1, timer2;
+var messageLabel = document.getElementById("messageLabel");
+ 
+function textFunc() {
+     
+    messageLabel.innerHTML = message.substring(0, msgCount);
+     
+    if (msgCount == message.length) {
+        // Stop timer
+        clearInterval(timer1);
+         
+        // Start blinking animation!
+        timer2 = setInterval("blinkFunc()", 200);
+         
+    } else {
+        msgCount++;
+    }     
+}
+ 
+function blinkFunc() {   
+    // blink 5 times.
+    if (blinkCount < 6) {
+         
+        if (blinkFlg == 0) {
+            messageLabel.innerHTML = message;
+            blinkFlg = 1;
+            blinkCount++;
+             
+        } else {
+            messageLabel.innerHTML = "";
+            blinkFlg = 0;
+        }
+         
+    } else {
+        // Stop timer
+        clearInterval(timer2);
+    }
+
+} 
+timer1 = setInterval("textFunc()", 150); // every 150 milliseconds
+</script>
+</body>
+</html>
