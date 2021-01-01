@@ -175,11 +175,11 @@ canvas{
 }
 
 #intro a:hover{
-  border-bottom: 1px solid #13E8E9;
+  border-bottom: 0px solid #13E8E9;
 }
 
 #intro i{
-  font-size: 2.5em;
+  font-size: 1.0em;
   color: rgb(241, 240, 240);
 }
 
