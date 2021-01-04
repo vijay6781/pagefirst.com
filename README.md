@@ -706,6 +706,10 @@ background-color: #FF6600
  <td><a href="https://drive.google.com/file/d/19FaAx7APkC3q23r3EnrNmQb2k9P6tW2M/view?usp=drivesdk">Mathematics Formula</a></td>
   
 </tr>
+<tr> 
+ <td><a href="https://1drv.ms/u/s!AuFI5mZ9sv2hhQBTdnImdm3U7UIO?e=GAG0C4">Upsc_Book</a></td>
+  
+</tr>
 </tbody>
 </table >
 </div>
