@@ -400,6 +400,9 @@ background-color: #FF6600
 </tr>
 <tbody class="tbody" >
 	<tr>	 
+ <td><a href="http://biharboardonline.bihar.gov.in/">Bihar Board 12th Result 2021</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	<tr>	 
  <td><a href="http://result.jeeadv.ac.in/">IIT JEE Advanced Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	<tr>	 
