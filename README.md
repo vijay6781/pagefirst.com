@@ -705,8 +705,12 @@ background-color: #FF6600
   
 </tr>
 
-<tr> 
+<tr>
  <td><a href="https://drive.google.com/file/d/19FaAx7APkC3q23r3EnrNmQb2k9P6tW2M/view?usp=drivesdk">Mathematics Formula</a></td>
+  
+</tr>
+<tr> 
+ <td><a href=" https://1drv.ms/b/s!AuFI5mZ9sv2hiH3qy5wmNaU2TvkA?e=YhGPS8">Integral Calculus</a></td>
   
 </tr>
 <tr> 
