@@ -364,9 +364,6 @@ background-color: #FF6600
        <li class="nav-item active">               
        <a class="nav-link" href="okaymeme.html">Okay-Meme</a>
       </li>
-      <li class="nav-item active">
-        <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(ketto)</a>
-      </li>
 	<li class="nav-item dropdown active">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            Impo-link
