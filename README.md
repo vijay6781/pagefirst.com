@@ -343,7 +343,7 @@ background-color: #FF6600
   
   
   <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(51, 153, 255)">
-  <a class="navbar-brand" href="https://selfregistration.cowin.gov.in/">Covid-19 Vaccination(CoWIN)</a>
+  <a class="navbar-brand" href="https://selfregistration.cowin.gov.in/">Covid-19 Vaccination</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
