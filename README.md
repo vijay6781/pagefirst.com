@@ -369,6 +369,7 @@ background-color: #FF6600
            Impo-link
         </a>
         <div class="dropdown-menu" aria-labelledby="Links">
+	  <a class="dropdown-item" href="https://okayresult.com/Login%20Page/">Login</a>	
           <a class="dropdown-item" href="http://www.nitrr.ac.in/syllabus.php">NIT Raipur Syllabus</a>
           <a class="dropdown-item" href="http://www.nitrr.ac.in/acad_downloads.php">Nitrr Calender/Notice</a>
 	 <a class="dropdown-item" href="http://www.nitrr.ac.in/results.php">Nitrr Result</a>
