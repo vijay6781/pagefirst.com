@@ -167,7 +167,7 @@ table {
            Impo-link
         </a>
         <div class="dropdown-menu" aria-labelledby="Links">
-	  <a class="dropdown-item" href="https://okayresultproject1.netlify.app">Project_first</a>		
+	  <a class="dropdown-item" href="https://okay-chat.netlify.app/">Vijay_Kumar_Project</a>		
 	  <a class="dropdown-item" href="https://okayresult.com/Login%20Page/">Login</a>	
           <a class="dropdown-item" href="http://www.nitrr.ac.in/syllabus.php">NIT Raipur Syllabus</a>
           <a class="dropdown-item" href="http://www.nitrr.ac.in/acad_downloads.php">Nitrr Calender/Notice</a>
