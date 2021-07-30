@@ -157,11 +157,11 @@ table {
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
        <li class="nav-item active">
-        <a class="nav-link" href="photos.html">Gallery</a>
+        <a class="nav-link" href="photos.html">Vijay_Gallery</a>
       </li>
-       <li class="nav-item active">               
+<!--        <li class="nav-item active">               
        <a class="nav-link" href="okaymeme.html">Okay-Meme</a>
-      </li>
+      </li> -->
 	<li class="nav-item dropdown active">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            Impo-link
