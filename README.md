@@ -160,7 +160,7 @@ table {
         <a class="nav-link" href="photos.html">VJ_Gallery</a>
       </li>
        <li class="nav-item active">               
-       <a class="nav-link" href="okaymeme.html">Ok_Meme</a>
+       <a class="nav-link" href="okaymeme.html">Meme</a>
       </li>
 	<li class="nav-item dropdown active">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
