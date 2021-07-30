@@ -157,7 +157,7 @@ table {
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
        <li class="nav-item active">
-        <a class="nav-link" href="photos.html">Vijay_Gallery</a>
+        <a class="nav-link" href="photos.html">VJ_Gallery</a>
       </li>
 <!--        <li class="nav-item active">               
        <a class="nav-link" href="okaymeme.html">Okay-Meme</a>
