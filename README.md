@@ -21,7 +21,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 	
-	<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171018261-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -154,7 +154,7 @@ table {
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
 	    </li>
        <li class="nav-item active">
-        <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
+        <a class="nav-link" href="https://okayresult.com/Login%20Page/">Login</a>
       </li>
        <li class="nav-item active">
         <a class="nav-link" href="photos.html">VJ_Gallery</a>
@@ -169,7 +169,7 @@ table {
         <div class="dropdown-menu" aria-labelledby="Links">
 	  <a class="dropdown-item" href="https://okay-chat.netlify.app/">Vijay_Kumar_Project</a>		
 	  <a class="dropdown-item" href="https://okayresult.com/Login%20Page/">Login</a>	
-          <a class="dropdown-item" href="http://www.nitrr.ac.in/syllabus.php">NIT Raipur Syllabus</a>
+          <a class="dropdown-item" href="http://www.nitrr.ac.in/">NIT Raipur</a>
           <a class="dropdown-item" href="https://okayresult.com/lcs(length).cpp">LCS</a>
 	  <a class="dropdown-item" href="https://okayresult.com/subset_of_string.txt">subset_of_string</a>
 	 <a class="dropdown-item" href="http://www.nitrr.ac.in/results.php">Nitrr Result</a>
