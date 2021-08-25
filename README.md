@@ -15,7 +15,6 @@
    <link rel="stylesheet" media="screen" href="css/style.css">
   <link rel="shortcut icon" href="portfolio/images/vijay.png">	
 	
-  
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
@@ -124,13 +123,6 @@ table {
 }
 }
 
-
-
-
-
-
-
-
 </style>
 
 <body data-spy="scroll"  data-offset="50">
@@ -138,8 +130,7 @@ table {
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
 </div>
-  
-  
+	
   <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(51, 153, 255)">
   <a class="navbar-brand" href="https://okayresult.com/covid">Covid-19 Vaccination</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -185,14 +176,12 @@ table {
 <div class="text-center mt-2">
     <h3>
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
-   </div>
-    
+   </div>  
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
     <div class=" bg-white border border-success">
   <table >
-  
 <tr>
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
@@ -528,13 +517,9 @@ table {
 
  <div class="row text-center">
     <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 mb-4 mt-4">
-      <div class="text-center ml-5 mr-5 mb-1 mt-3"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
+      <div class="text-center ml-5 mr-5 mb-1 mt-3"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="">Join me on Facebook</a></span></h3></div>
 	    
- 	    
-
-
-
-	    
+ 	    	    
 <div class="content_area">
 <div class="container ">
  <div class=" bg-white border border-danger ml-3 mr-2 mt-2"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)"><a href="https://www.facebook.com/profile.php?id=100027906523727">Okay Result</a></sapn></a></h2>
