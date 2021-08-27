@@ -228,7 +228,7 @@ table {
 	 <tr>
  <td><a href="biharpolice.html">Bihar Police PET PostPond </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
-<!-- 		 <tr>
+<!--  <tr>
  <td><a href="https://okayresult.com/biharboard2020.html">Bihar  12th Scrutiny Result 2020 </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
 	 <tr>
@@ -239,7 +239,7 @@ table {
 </tr>
 	 <tr>
  <td><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
-	</tr> -->
+</tr> -->
  <tr> 
 	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
 </tr>
