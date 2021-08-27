@@ -503,10 +503,10 @@ table {
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <div class="footerv">
-  <p>Contact us<br>
- <span style="color:rgb(255,255,255)"> <svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <p><span style="color:rgb(255,25,25)"><a href="https://okay-chat.netlify.app/">Contact us</a></span><br>
+ <span style="color:rgb(255,25,255)"> <svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg> </span> <a href="mailto:vijaykumarnitrr@gmail.com"><span style="color:rgb(255,255,255)">vijaykumarnitrr@gmail.com</span></a></p>
+</svg> </span> <a href="mailto:vijaykumarnitrr@yahoo.com"><span style="color:rgb(255,25,255)">vijaykumarnitrr@yahoo.com</span></a></p>
  </div>
  </div>
  </div>
