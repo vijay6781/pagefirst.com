@@ -318,6 +318,15 @@ table {
  <td> <a href="http://vidhansabha.bih.nic.in/pdf/recruitment/Results/Results%20of%20advt%20no%2042018.pdf">Bihar Vidhansabha Group D Score Card 2020</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
+ <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+		<tr>
+ <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+		<tr>
+ <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+	<tr>
  <td> <a href="BPSCAEELEC.html">Bihar SHSB Various Post Online Form 2020</a><span style="color:rgb(255,0,0)"> </span></td>  
 </tr>
 	<tr>
