@@ -6,21 +6,16 @@
   <meta charset="utf-8">
   <meta name="description" content="Okay result, Okay Results,okresult,okayresult, Sarkari Results, ओके रिजल्ट, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms,Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job,Specially fast Job Result,Bihar/up Result by #Okay Result.">
   <meta name="keywords" content="Okay Result,OkayResUlt, OKResult, okayresult, Sarkariresult, Sarkari, Sarkariresults">
- <link rel="canonical" href="https://okayresult.com/">	
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="rating" content="general">
   <meta name="distribution" content="global">
-	
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-   <link rel="stylesheet" media="screen" href="css/style.css">
-  <link rel="shortcut icon" href="portfolio/images/vijay.png">	
-	
+  <link rel="canonical" href="https://okayresult.com/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 	
-<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171018261-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -122,7 +117,6 @@ table {
 	right:12px;
 }
 }
-
 </style>
 
 <body data-spy="scroll"  data-offset="50">
@@ -130,43 +124,36 @@ table {
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
 </div>
-	
-  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(51, 153, 255)">
-  <a class="navbar-brand" href="https://okayresult.com/covid">Covid-19 Vaccination</a>
+  
+  
+  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
+  <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
-      <li class="nav-item active">               
+      <li class="nav-item">               
        <a class="nav-link" href="okay result latestjob.html">Latest Jobs</a>
       </li>
-      <li class="nav-item active">               
+      <li class="nav-item">               
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
 	    </li>
-       <li class="nav-item active">
+       <li class="nav-item">
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
-       <li class="nav-item active">
-        <a class="nav-link" href="photos.html">VJ_Gallery</a>
+       <li class="nav-item">
+        <a class="nav-link" href="photos.html">Gallery</a>
       </li>
-       <li class="nav-item active">               
-       <a class="nav-link" href="okaymeme.html">Meme</a>
+       <li class="nav-item">               
+       <a class="nav-link" href="okaymeme.html">Okay-Meme</a>
       </li>
-	<li class="nav-item dropdown active">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-           Impo-link
-        </a>
-        <div class="dropdown-menu" aria-labelledby="Links">
-	  <a class="dropdown-item" href="https://okay-chat.netlify.app/">Vijay_Kumar_Project</a>		
-	  <a class="dropdown-item" href="https://okayresult.com/Login%20Page/">Login</a>	
-          <a class="dropdown-item" href="http://www.nitrr.ac.in/">NIT Raipur</a>
-          <a class="dropdown-item" href="https://okayresult.com/lcs(length).cpp">LCS</a>
-	  <a class="dropdown-item" href="https://okayresult.com/subset_of_string.txt">subset_of_string</a>
-	 <a class="dropdown-item" href="http://www.nitrr.ac.in/results.php">Nitrr Result</a>
-	<a class="dropdown-item" href="internship_experiance.txt">company-experiance</a>	 	
-        </div>
-	    </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(ketto)</a>
+      </li>
+	    <li class="nav-item">               
+       <a class="nav-link" href="internship_experiance.txt">experiance</a>
+      </li>
     </ul>
   </div>  
 </nav>
@@ -176,19 +163,18 @@ table {
 <div class="text-center mt-2">
     <h3>
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
-   </div>  
+   </div>
+    
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
     <div class=" bg-white border border-success">
   <table >
+  
 <tr>
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
-	<tr>	 
- <td><a href="http://inter.onlinebseb.in/">Bihar Board 12th Result 2021</a><span style="color:rgb(255,0,25)">New</span> </td>  
-</tr>
 	<tr>	 
  <td><a href="http://result.jeeadv.ac.in/">IIT JEE Advanced Result 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
@@ -219,19 +205,31 @@ table {
 	 <tr>
  <td><a href="http://mpresults.nic.in/mpbse/Xhsc-20/X_class_20.htm"> MP 10th Board Result </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
-<!-- 	 <tr>
+	 <tr>
  <td><a href="http://www.exam-result.in/">JAC 11th Board Result </a><span style="color:rgb(255,0,25)"> </span> </td>  
-</tr> -->
+</tr>
 	 <tr>
  <td> SSC CGL Result<br><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_1_01072020.pdf">List1 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_2_01072020.pdf">List2 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_NR_01072020.pdf">List3 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_Other%20than%20NR_01072020.pdf">List4 |</a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
 	 <tr>
  <td><a href="biharpolice.html">Bihar Police PET PostPond </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
-
- <tr> 
-<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
+		 <tr>
+ <td><a href="https://okayresult.com/biharboard2020.html">Bihar  12th Scrutiny Result 2020 </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
+	 <tr>
+ <td><a href="https://upmsp.edu.in/ResultHighSchoolZXCVMNB.aspx">UP 10th Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
+</tr>
+	 <tr>
+ <td><a href="https://upmsp.edu.in/ResultIntermediateZXCVMNB.aspx">UP 12th Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
+</tr>
+	 <tr>
+ <td><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
+	</tr>
+ <tr> 
+	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
+</tr>
+  
 </tbody>
 </table >
 </div>
@@ -245,9 +243,6 @@ table {
 </tr>
 
 <tbody class="tbody" >
-	<tr>
- <td> <a href="http://uppsc.up.nic.in/Notifications.aspx">UPPSC Various Post Online Form 2021</a><span style="color:rgb(255,0,0)"> New</span></td>  
-</tr>
 	<tr>
  <td> <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/67426/Instruction.html">UPPCL ARO Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
@@ -284,7 +279,7 @@ table {
 </tr>
 		<tr>
  <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
-<!-- </tr>
+</tr>
 		<tr>
  <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
@@ -293,7 +288,7 @@ table {
 </tr>
 		<tr>
  <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr> -->
+</tr>
 	
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
@@ -344,9 +339,6 @@ table {
    <tr>
  <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
-<tr>
- <td> <a href="Bihar Police Lady.html"> Bihar Police Lady Constable 2020  </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
   <tr>
  <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
@@ -368,20 +360,13 @@ table {
 	<tr>
  <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)">Re-Open</span></td>  
 </tr>
-<tr>
- <td> <a href="https://okayresult.com/ibps.html">IBPS RRB IX Office Assistant Form 2020
-</a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>	
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
 </tr>
     <tr>
  <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
 </tr>
-   <tr>
- <td> <a href="https://okayresult.com/ibps.html">IBPS RRB IX Office Assistant Form 2020
-</a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
+   
 <tr>
  <td><a href="drdo2020.html">DRDO Scientist B<br> Recruitment 2020<br> Online Form</a> </td>
  
@@ -440,7 +425,7 @@ table {
 
 <tr>
   
- <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 </a></td>
+ <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 Notification new date 4 oct 2020</a></td>
  
  
 </tr>
@@ -489,19 +474,6 @@ table {
  <td><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">Lecture Notes on Data Structure</a></td>
   
 </tr>
-
-<!-- <tr>
- <td><a href="https://drive.google.com/file/d/19FaAx7APkC3q23r3EnrNmQb2k9P6tW2M/view?usp=drivesdk">Mathematics Formula</a></td>
-  
-</tr>
-<tr> 
- <td><a href=" https://1drv.ms/b/s!AuFI5mZ9sv2hiH3qy5wmNaU2TvkA?e=YhGPS8">Integral Calculus</a></td>
-  
-</tr>
-<tr> 
- <td><a href="https://1drv.ms/u/s!AuFI5mZ9sv2hiDciygxGM8dqcIpY?e=lED37w">NCERT_Books</a></td>
-  
-</tr> -->
 </tbody>
 </table >
 </div>
@@ -515,14 +487,12 @@ table {
 
  <div class="row text-center">
     <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 mb-4 mt-4">
-      <div class="text-center ml-5 mr-5 mb-1 mt-3"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="">Join me on Facebook</a></span></h3></div>
-	    
- 	    	    
+      <div class="text-center ml-5 mr-5 mb-1 mt-4"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
 <div class="content_area">
 <div class="container ">
- <div class=" bg-white border border-danger ml-3 mr-2 mt-2"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)"><a href="https://www.facebook.com/profile.php?id=100027906523727">Okay Result</a></sapn></a></h2>
-	 <p><strong>Okay Result</strong> provide all of you latest Job  Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you latest Sarkari job as well as sarkari result. <br></p>
-   <h3><a href="https://okayresult.com/"><span style="color:red">www.okayresult.com</span></a></h3>
+ <div class=" bg-white border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
+	 <p><strong>Okay Result</strong> provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
+   <h3><a href="https://okayresult.com/"><span style="color:red"> www.okayresult.com</span></a></h3>
     </div>     
 </div> 
       </div>
@@ -532,11 +502,11 @@ table {
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<div class="footerv" style="background:rgb(0, 255, 255)">
-	<p><span style="color:rgb(255,25,25)"><a href="https://okay-chat.netlify.app/">Contact us</a></span><br>
- <span style="color:rgb(255,25,255)"> <svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<div class="footerv">
+  <p>Contact us<br>
+ <span style="color:rgb(255,255,255)"> <svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg> </span> <a href="mailto:vijaykumarnitrr@yahoo.com"><span style="color:rgb(255,25,255)">vijaykumarnitrr@yahoo.com</span></a></p>
+</svg> </span> <a href="mailto:vjhelpcare@gmail.com"><span style="color:rgb(255,255,255)">vjhelpcare@gmail.com</span></a></p>
  </div>
  </div>
  </div>
@@ -572,29 +542,5 @@ setInterval(function(){
 	<!-- Start of pot Embed Code -->
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
 <!-- End of pot Embed Code -->
-
-
-<!----div class="content_area text-center" style="background:rgb(175, 250, 177)">
-   <script id="dsq-count-scr" src="//okay-result.disqus.com/count.js" async></script>
-  <div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://okay-result.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript"></a></noscript>
-  </div----->
 </body>
 </html>
