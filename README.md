@@ -219,9 +219,9 @@ table {
 	 <tr>
  <td><a href="http://mpresults.nic.in/mpbse/Xhsc-20/X_class_20.htm"> MP 10th Board Result </a><span style="color:rgb(255,0,25)"></span> </td>  
 </tr>
-	 <tr>
+<!-- 	 <tr>
  <td><a href="http://www.exam-result.in/">JAC 11th Board Result </a><span style="color:rgb(255,0,25)"> </span> </td>  
-</tr>
+</tr> -->
 	 <tr>
  <td> SSC CGL Result<br><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_1_01072020.pdf">List1 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_2_01072020.pdf">List2 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_NR_01072020.pdf">List3 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_Other%20than%20NR_01072020.pdf">List4 |</a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
@@ -230,9 +230,8 @@ table {
 </tr>
 
  <tr> 
-	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
+<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
 </tr>
-  
 </tbody>
 </table >
 </div>
@@ -369,13 +368,20 @@ table {
 	<tr>
  <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)">Re-Open</span></td>  
 </tr>
+<tr>
+ <td> <a href="https://okayresult.com/ibps.html">IBPS RRB IX Office Assistant Form 2020
+</a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>	
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
 </tr>
     <tr>
  <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
 </tr>
-   
+   <tr>
+ <td> <a href="https://okayresult.com/ibps.html">IBPS RRB IX Office Assistant Form 2020
+</a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
 <tr>
  <td><a href="drdo2020.html">DRDO Scientist B<br> Recruitment 2020<br> Online Form</a> </td>
  
