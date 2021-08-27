@@ -533,7 +533,7 @@ setInterval(function(){
     body.style.background="rgb(47, 4, 255)";
     isblue=1;
 	}
-},2000);
+},1000);
 	</script>
 	<!-- Start pot Embed Code -->
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
