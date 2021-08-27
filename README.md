@@ -228,7 +228,7 @@ table {
 	 <tr>
  <td><a href="biharpolice.html">Bihar Police PET PostPond </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
-		 <tr>
+<!-- 		 <tr>
  <td><a href="https://okayresult.com/biharboard2020.html">Bihar  12th Scrutiny Result 2020 </a><span style="color:rgb(255,0,25)"> </span> </td>  
 </tr>
 	 <tr>
@@ -239,7 +239,7 @@ table {
 </tr>
 	 <tr>
  <td><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"></span> </td>  
-	</tr>
+	</tr> -->
  <tr> 
 	<td><a href="all Result.html"><span style="color:green">View More</span></a></td>
 </tr>
@@ -296,7 +296,7 @@ table {
 </tr>
 		<tr>
  <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
+<!-- </tr>
 		<tr>
  <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
@@ -305,7 +305,7 @@ table {
 </tr>
 		<tr>
  <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
+</tr> -->
 	
 <tr> 
 	<td><a href="okay result latestjob.html"><span style="color:green">View More</span></a></td>
@@ -355,6 +355,9 @@ table {
 </tr>
    <tr>
  <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+<tr>
+ <td> <a href="Bihar Police Lady.html"> Bihar Police Lady Constable 2020  </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
   <tr>
  <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
@@ -442,7 +445,7 @@ table {
 
 <tr>
   
- <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 Notification new date 4 oct 2020</a></td>
+ <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 </a></td>
  
  
 </tr>
@@ -492,7 +495,7 @@ table {
   
 </tr>
 
-<tr>
+<!-- <tr>
  <td><a href="https://drive.google.com/file/d/19FaAx7APkC3q23r3EnrNmQb2k9P6tW2M/view?usp=drivesdk">Mathematics Formula</a></td>
   
 </tr>
@@ -503,7 +506,7 @@ table {
 <tr> 
  <td><a href="https://1drv.ms/u/s!AuFI5mZ9sv2hiDciygxGM8dqcIpY?e=lED37w">NCERT_Books</a></td>
   
-</tr>
+</tr> -->
 </tbody>
 </table >
 </div>
