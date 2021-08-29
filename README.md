@@ -149,7 +149,7 @@ table {
        <a class="nav-link" href="okaymeme.html">Okay-Meme</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(ketto)</a>
+        <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(Ketto)</a>
       </li>
 	    <li class="nav-item">               
        <a class="nav-link" href="https://okayresult.com/Login%20Page/">Register</a>
