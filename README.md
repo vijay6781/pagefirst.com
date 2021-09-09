@@ -147,7 +147,7 @@ table {
       </li>
 	   
        <li class="nav-item">               
-       <a class="nav-link" href="okaymeme.html">Okay-Meme</a>
+       <a class="nav-link" href="okaymeme.html">Ok-Meme</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(Ketto)</a>
@@ -156,7 +156,7 @@ table {
         <a class="nav-link" href="https://okayresult.com/okay_chat/">Chat</a>
       </li>
 	    <li class="nav-item">               
-       <a class="nav-link" href="https://okayresult.com/Login%20Page/">Register</a>
+       <a class="nav-link" href="https://okayresult.com/Login%20Page/">Sign In</a>
       </li>
     </ul>
   </div>  
