@@ -140,7 +140,7 @@ table {
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
 	    </li>
        <li class="nav-item">
-        <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
+        <a class="nav-link" href="http://www.nitp.ac.in/php/home.php">NITP</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="photos.html">Vj-Gallery</a>
