@@ -180,67 +180,8 @@ table {
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
    </div>
     
-	<div class="container-fluid table-hover  table-striped">
+<div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
- <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-    <div class=" bg-white border border-success">
-  <table >
-<tr>
-  <th scope="col" style="background:rgb(0,255,1)">Comapany-Job</th>    
-</tr>
-<tbody class="tbody" >
-	<tr>
- <td> <a href="https://careers.google.com/ ">Google</a></td>  
-</tr>
-	<tr>
- <td> <a href="https://www.amazon.jobs/en/">Amazon</td>  
-</tr>
-	<tr>
- <td> <a href="https://www.adobe.com/careers.html">Adobe</td>  
-</tr>
-	<tr>
- <td> <a href="https://www.facebookcareers.com/">Facebook</td>  
-</tr>
-	<tr>
- <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
-		<tr>
- <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
-		<tr>
- <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
-	<tr>
- <td> <a href="BPSCAEELEC.html">Bihar SHSB Various Post Online Form 2020</a><span style="color:rgb(255,0,0)"> </span></td>  
-</tr>
-	<tr>
- <td> <a href="UPPCL.html">UPPCL Account Officer Online Form</a><span style="color:rgb(255,0,0)"> </span></td>  
-</tr>
-	<tr>
- <td> <a href="https://okayresult.com/Bihar11thadmission.html">OFSS Bihar Inter (11th) Admission Form 2020
-</a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
-	<tr>
-  
- <td><a href="https://okayresult.com/biharboard2020.html">Bihar Board 12th  Scrutiny Result 2020</a></td>
-
- 
-</tr>
-	<tr>
- <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
-   <tr>
- <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
-  <tr>
- <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
-
-</tbody>
-</table >
-    </div>
-    </div>
-	  
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
     <div class=" bg-white border border-success">
   <table >
@@ -371,7 +312,65 @@ table {
 </table>
 </div>
     </div>
-    
+    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">
+   <div class=" bg-white border border-success">
+     <table >
+  
+<tr>
+  <th scope="col" style="background:rgb(0,255,1)">Statewise</th>    
+</tr>
+<tbody class="tbody" >
+	<tr>
+ <td> <a href="https://register.cbtexams.in/CGPSC/CivilMains/Registration/Account/Login ">CGPSC Civil Judge Mains Admit Card 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
+	<tr>
+ <td> <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/67426/Instruction.html">UPPCL ARO Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
+	<tr>
+ <td> <a href="https://rpsc.rajasthan.gov.in/resultsearch?Frm=TYPE2H&Pie=SI_2016_FINAL_11092020">RPSC SI 2016 Final Marks</a><span style="color:rgb(255,0,0)"> New</span></td>  
+</tr>
+	<tr>
+ <td> <a href="http://vidhansabha.bih.nic.in/pdf/recruitment/Results/Results%20of%20advt%20no%2042018.pdf">Bihar Vidhansabha Group D Score Card 2020</a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+	<tr>
+ <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+		<tr>
+ <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+		<tr>
+ <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+	<tr>
+ <td> <a href="BPSCAEELEC.html">Bihar SHSB Various Post Online Form 2020</a><span style="color:rgb(255,0,0)"> </span></td>  
+</tr>
+	<tr>
+ <td> <a href="UPPCL.html">UPPCL Account Officer Online Form</a><span style="color:rgb(255,0,0)"> </span></td>  
+</tr>
+	<tr>
+ <td> <a href="https://okayresult.com/Bihar11thadmission.html">OFSS Bihar Inter (11th) Admission Form 2020
+</a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+	<tr>
+  
+ <td><a href="https://okayresult.com/biharboard2020.html">Bihar Board 12th  Scrutiny Result 2020</a></td>
+
+ 
+</tr>
+	<tr>
+ <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+   <tr>
+ <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+  <tr>
+ <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+
+</tbody>
+</table >
+    </div>
+    </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
    <div class="bg-white border border-success">
      <table >
