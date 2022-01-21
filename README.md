@@ -194,17 +194,18 @@ table {
  <td> <a href="https://careers.google.com/ ">Google</a><span style="color:rgb(255,0,0)"> New</span></td>  
 </tr>
 	<tr>
+ <td> <a href="https://careers.microsoft.com/">Microsoft</a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+	<tr>
  <td> <a href="https://www.amazon.jobs/">Amazon</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
  <td> <a href="https://www.adobe.com/careers.html">Adobe</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
 	<tr>
- <td> <a href="http://vidhansabha.bih.nic.in/pdf/recruitment/Results/Results%20of%20advt%20no%2042018.pdf">Bihar Vidhansabha Group D Score Card 2020</a><span style="color:rgb(255,0,0)"></span></td>  
+ <td> <a href="https://www.salesforce.com/company/careers/">Salesforce</a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
-	<tr>
- <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)"></span></td>  
-</tr>
+	
 		<tr>
  <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
