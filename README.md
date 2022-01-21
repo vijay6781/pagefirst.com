@@ -122,11 +122,8 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-      <div class="container text-center">                             
-  <div class="spinner-grow text-danger pt-0 mt-0 "></div>
-   <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
-</div>
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container text-center"> 
+	      <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -148,6 +145,10 @@ table {
     </ul>
   </div>
 </nav>
+  <div class="spinner-grow text-danger pt-0 mt-0 "></div>
+   <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
+</div>
+	
 	
 	
 <!--   <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
