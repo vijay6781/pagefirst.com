@@ -187,20 +187,20 @@ table {
      <table >
   
 <tr>
-  <th scope="col" style="background:rgb(0,255,1)">Statewise</th>    
+  <th scope="col" style="background:rgb(0,255,1)">Comapany-Job</th>    
 </tr>
 <tbody class="tbody" >
 	<tr>
- <td> <a href="https://register.cbtexams.in/CGPSC/CivilMains/Registration/Account/Login ">CGPSC Civil Judge Mains Admit Card 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+ <td> <a href="https://careers.google.com/ ">Google</a></td>  
 </tr>
 	<tr>
- <td> <a href="https://cdn.digialm.com//EForms/configuredHtml/1258/67426/Instruction.html">UPPCL ARO Online Form 2020</a><span style="color:rgb(255,0,0)"> New</span></td>  
+ <td> <a href="https://www.amazon.jobs/en/">Amazon</td>  
 </tr>
 	<tr>
- <td> <a href="https://rpsc.rajasthan.gov.in/resultsearch?Frm=TYPE2H&Pie=SI_2016_FINAL_11092020">RPSC SI 2016 Final Marks</a><span style="color:rgb(255,0,0)"> New</span></td>  
+ <td> <a href="https://www.adobe.com/careers.html">Adobe</td>  
 </tr>
 	<tr>
- <td> <a href="http://vidhansabha.bih.nic.in/pdf/recruitment/Results/Results%20of%20advt%20no%2042018.pdf">Bihar Vidhansabha Group D Score Card 2020</a><span style="color:rgb(255,0,0)"></span></td>  
+ <td> <a href="https://www.facebookcareers.com/">Facebook</td>  
 </tr>
 	<tr>
  <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)"></span></td>  
