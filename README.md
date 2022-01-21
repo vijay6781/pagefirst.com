@@ -132,37 +132,14 @@ table {
 
 <body data-spy="scroll"  data-offset="50">
       <div class="container text-center"> 
-<!-- 	      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
-      </li>
-    </ul>
-  </div>
-</nav>
-	       -->
-	      
+
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
 </div>
 		
-  <nav id="vks" class="navbar navbar-expand-lg navbar-light bg-light mt-3" style="background:rgb(77, 77, 255)">
+  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
   <a class="navbar-brand" href="#">Home</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
@@ -195,8 +172,8 @@ table {
     </ul>
   </div>  
 </nav>
-<!--   <script async src="https://cse.google.com/cse.js?cx=007234223769253818867:bk17khd0zka"></script>
-<div class="gcse-search"></div> -->
+  <script async src="https://cse.google.com/cse.js?cx=007234223769253818867:bk17khd0zka"></script>
+<div class="gcse-search"></div>
 
 <div class="text-center mt-2">
     <h3>
