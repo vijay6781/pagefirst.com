@@ -159,24 +159,14 @@ table {
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
 </div>
-	
-	
-	
-<!--   <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
+		
+  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav">
-	     -->
-	     <nav class="navbar navbar-expand-lg navbar-light bg-light mt-3" style="background:rgb(77, 77, 255)>
-  <a class="navbar-brand" href="#">Navbar</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
+    <ul class="navbar-nav">  
       <li class="nav-item">               
        <a class="nav-link" href="okay result latestjob.html">Latest Jobs</a>
       </li>
