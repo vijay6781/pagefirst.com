@@ -185,8 +185,8 @@ table {
     </ul>
   </div>  
 </nav> -->
-  <script async src="https://cse.google.com/cse.js?cx=007234223769253818867:bk17khd0zka"></script>
-<div class="gcse-search"></div>
+<!--   <script async src="https://cse.google.com/cse.js?cx=007234223769253818867:bk17khd0zka"></script>
+<div class="gcse-search"></div> -->
 
 <div class="text-center mt-2">
     <h3>
