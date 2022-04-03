@@ -482,15 +482,11 @@ table {
   <tr>
  <td><a href="#">Introduction to The Design and Analysis of Algorithms(Levitin)</a></td>
 </tr>
-
 <tr>
- <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
-  
+ <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>  
 </tr>
-
 <tr> 
  <td><a href="https://drive.google.com/file/d/180HeUYxeNXV3aH80WYrJn8peHetGCMzG/view?usp=drivesdk">C++ Book Download</a></td>
- 
 </tr>
 <tr>
  <td><a href="https://drive.google.com/file/d/107NaCd45SMfJ-bzTbfaScPTfoAelNV3U/view"> Data Structure and Algorithm  C++ </a></td>
@@ -521,13 +517,11 @@ table {
    <h3><a href="https://okayresult.com/"><span style="color:red"> www.okayresult.com</span></a></h3>
     </div>     
 </div> 
-      </div>
-  
- 
- 
+      </div>         
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+ 
 <div class="footerv" style="background:rgb(0, 255, 255)">
 	<p><span style="color:rgb(255,25,25)"><a href="https://okay-chat.netlify.app/">Contact us</a></span><br>
  <span style="color:rgb(255,25,255)"> <svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
