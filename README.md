@@ -562,7 +562,7 @@ setInterval(function(){
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
 <!-- End of pot Embed Code -->
 vijay6781/pagefirst.com/Login Page/main.js
-<script type="https://okayresult.com/Login%20Page/main.js"></script>
+<script type="vijay6781/pagefirst.com/Login Page/main.js"></script>
 
 </body>
 </html>
