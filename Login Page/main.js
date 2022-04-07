@@ -14,8 +14,8 @@ firebase.initializeApp(config);
   // Initialize Firebase
 
 
-  let logintext=document.querySelector('.login_page');
-  logintext.innerHTML="Hey";
+  
+  document.querySelector(".login_page").innerHTML = "hello";
 
 
   
