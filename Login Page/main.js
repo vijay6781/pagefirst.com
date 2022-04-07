@@ -12,6 +12,13 @@ firebase.initializeApp(config);
 */
 
   // Initialize Firebase
+
+
+  let logintext=document.querySelectorById('login_page');
+  logintext.innerHTML="Hey";
+
+
+  
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
 // Reference messages collection

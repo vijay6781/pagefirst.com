@@ -156,7 +156,6 @@ table {
        <li class="nav-item">
         <a class="nav-link" href="photos.html">Vj-Gallery</a>
       </li>
-	   
        <li class="nav-item">               
        <a class="nav-link" href="okaymeme.html">Ok-Meme</a>
       </li>
@@ -167,7 +166,7 @@ table {
         <a class="nav-link" href="https://okayresult.com/okay_chat/">Chat</a>
       </li>
 	    <li class="nav-item">               
-       <a class="nav-link" href="https://okayresult.com/Login%20Page/">Sign In</a>
+       <a  id="login_page"class="nav-link" href="https://okayresult.com/Login%20Page/">Sign In</a>
       </li>
     </ul>
   </div>  
@@ -562,5 +561,8 @@ setInterval(function(){
 	<!-- Start of pot Embed Code -->
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
 <!-- End of pot Embed Code -->
+vijay6781/pagefirst.com/Login Page/main.js
+<script type="https://okayresult.com/Login%20Page/main.js"></script>
+
 </body>
 </html>
