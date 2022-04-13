@@ -26,6 +26,7 @@
 }
 .cards_block {
   display:flex;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
@@ -41,11 +42,7 @@
       border-radius: 5px;
 
     }
-    .card1{
-      max-width:150px;
-      max-height: 200px;
-      background-image: url("../vjgit_image/card-hover.png");
-    }
+    
     .logo
     {
       display:flex;
@@ -60,7 +57,8 @@
    <h6 class="gradient-text" style="text-align:center;"> Okay Result</h6>
             <div  class="cards_block">
              
-             <div class="card1" >
+             <div class="card" >
+              <img src="../vjgit_image/card-hover.png" class="card"/>
                 <a href="https://www.amazon.jobs/"><img src="../vjgit_image/amazon.png" class="logo"/></a>
               </div>
               <div class="card">
