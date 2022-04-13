@@ -15,47 +15,22 @@
     <title>Document</title>
     <style type="text/css">
 
-.background {
-	height: 100%;
-	/* max-height: 600px; */
-	width: 1200px;
-  height: 1200px;
-	background-color: hsla(200,40%,30%,.4);
-	background-image:		
-		/* url('https://78.media.tumblr.com/cae86e76225a25b17332dfc9cf8b1121/tumblr_p7n8kqHMuD1uy4lhuo1_540.png'),  */
-		url('https://78.media.tumblr.com/66445d34fe560351d474af69ef3f2fb0/tumblr_p7n908E1Jb1uy4lhuo1_1280.png'),
-		url('https://78.media.tumblr.com/8cd0a12b7d9d5ba2c7d26f42c25de99f/tumblr_p7n8kqHMuD1uy4lhuo2_1280.png'),
-		url('https://78.media.tumblr.com/5ecb41b654f4e8878f59445b948ede50/tumblr_p7n8on19cV1uy4lhuo1_1280.png'),
-		url('https://78.media.tumblr.com/28bd9a2522fbf8981d680317ccbf4282/tumblr_p7n8kqHMuD1uy4lhuo3_1280.png');
-	background-repeat: repeat-x;
-	background-position: 
-		0 20%,
-		0 100%,
-		0 50%,
-		0 100%,
-		0 0;
-	background-size: 
-		2500px,
-		800px,
-		500px 200px,
-		1000px,
-		400px 260px;
-	animation: 50s para infinite linear;
-  
-	}
+html, body {
+  height: 100%;
+}
 
-@keyframes para {
-	100% {
-		background-position: 
-			-5000px 20%,
-			-800px 95%,
-			500px 50%,
-			1000px 100%,
-			400px 0;
-		}
-	}
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
 
-
+canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  transform: scale(2);
+}
 
      .gradient-text{
     font-size: 50px;
@@ -135,6 +110,47 @@
               
             </div>
            
-          </div> 
+          </div>
+          <script type="text/javascript">
+            var canvas = document.querySelector('canvas');
+var ctx = canvas.getContext('2d');
+
+
+function Pixel( x, y ) {
+  this.x = x;
+  this.y = y;
+  this.hue = Math.floor( Math.random() * 360 );
+  var direction = Math.random() > 0.5 ? -1 : 1;
+  this.velocity = ( Math.random() * 30 + 20 ) * 0.01 * direction;
+}
+
+Pixel.prototype.update = function() {
+  this.hue += this.velocity;
+};
+
+Pixel.prototype.render = function( ctx ) {
+  var hue = Math.round( this.hue );
+  ctx.fillStyle = 'hsl(' + hue + ', 100%, 50% )';
+  ctx.fillRect( this.x, this.y, 1, 1 );
+}
+
+var pixels = [
+  new Pixel( 0, 0 ),
+  new Pixel( 1, 0 ),
+  new Pixel( 0, 1 ),
+  new Pixel( 1, 1 ),
+];
+
+function animate() {
+  pixels.forEach( function( pixel ) {
+    pixel.update();
+    pixel.render( ctx );
+  });
+  requestAnimationFrame( animate );
+}
+
+animate();
+
+          </script> 
 </body>
 </html>
