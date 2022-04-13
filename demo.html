@@ -15,22 +15,12 @@
     <title>Document</title>
     <style type="text/css">
 
-html, body {
-  height: 100%;
-}
-
 body {
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-canvas {
-  display: block;
-  width: 100%;
-  height: 100%;
-  transform: scale(2);
-}
+background: #FEAC5E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   font-family: 'Roboto', sans-serif;  position: relative; 
+  }
 
      .gradient-text{
     font-size: 50px;
@@ -71,7 +61,7 @@ canvas {
     </style>
 </head>
 <body> 
-  <canvas width="2" height="2">
+  
    <div class="background">
             <div  class="cards_block"> 
              <div class="card" >
@@ -110,8 +100,8 @@ canvas {
             </div>
            
           </div>
-        </canvas>
-          <script type="text/javascript">
+      
+          <!-- <script type="text/javascript">
             var canvas = document.querySelector('canvas');
 var ctx = canvas.getContext('2d');
 
@@ -151,6 +141,6 @@ function animate() {
 
 animate();
 
-          </script> 
+          </script>  -->
 </body>
 </html>
