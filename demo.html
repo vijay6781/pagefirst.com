@@ -14,30 +14,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <title>Document</title>
     <style type="text/css">
-      .topnav {
-  overflow: hidden;
-  background-color: rgb(16, 31, 238);
-}
-
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #04AA6D;
-  color: white;
-}
-
+     
 body {
 background: #FEAC5E;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
@@ -58,6 +35,7 @@ background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+
 .cards_block {
   display:flex;
   flex-wrap: wrap;
+  justify-content: center;
   justify-content: space-around;
   border:1px solid red;
   margin-top:10px;
@@ -65,9 +43,9 @@ background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+
 .card
     {
       margin-top:5px;
-      max-width:150px;
-      max-height: 200px;
-      background-color: rgb(157, 255, 0);
+      width:150px;
+      height: 200px;
+      background-color: rgb(243, 8, 47);
       border-radius: 5px;
 
     }
@@ -91,44 +69,11 @@ background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+
     <a href="#about">Gallery</a>
   </div>
   
-   <div class="background">
-            <div  class="cards_block"> 
-             <div class="card" >
-              
-              </div>
-              <div class="card">
-                <img src="../vjgit_image/card-hover.png" class="card"/>
-                <a href="https://www.amazon.jobs/"><img src="../vjgit_image/microsoft.png" class="logo"/></a>
-              </div>
-              <div class="card">
-                <img src="../vjgit_image/card-hover.png" class="card"/>
-                <a href="https://www.amazon.jobs/"><img src="../vjgit_image/amazon.png" class="logo"/></a>
-              </div>
-              <div class="card">
-                <img src="../vjgit_image/card-hover.png" class="card"/>
-                <a href="https://www.amazon.jobs/"><img src="../vjgit_image/amazon.png" class="logo"/></a>
-              </div>
-              <div class="card">
-                <img src="../vjgit_image/card-hover.png" class="card"/>
-                <a href="https://www.amazon.jobs/"><img src="../vjgit_image/amazon.png" class="logo"/></a>
-              </div>
-              <div class="card">
-                <img src="../vjgit_image/card-hover.png" class="card"/>
-                <a href="https://www.amazon.jobs/"><img src="../vjgit_image/amazon.png" class="logo"/></a>
-              </div>
-              <div class="card">
-                <img src="../vjgit_image/card-hover.png" class="card"/>
-                <a href="https://www.amazon.jobs/"><img src="../vjgit_image/amazon.png" class="logo"/></a>
-              </div>
-              <div class="card">
-                <img src="../vjgit_image/card-hover.png" class="card"/>
-                <a href="https://www.amazon.jobs/"><img src="../vjgit_image/amazon.png" class="logo"/></a>
-              </div>
-              
-            </div>
-           
-          </div>
-      
+       <div class="cardblock">
+         <div class="card">
+
+         </div>
+       </div>
           <!-- <script type="text/javascript">
             var canvas = document.querySelector('canvas');
 var ctx = canvas.getContext('2d');
