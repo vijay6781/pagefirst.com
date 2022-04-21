@@ -163,7 +163,7 @@ table {
         <a class="nav-link" href="https://www.ketto.org/crowdfunding/fundraisers">Donate(Ketto)</a>
       </li>
 	     <li class="nav-item">
-        <a class="nav-link" href="https://okayresult.com/okay_chat/">Chat</a>
+        <a class="nav-link" href="https://okayresult.com/okay%20result%20calculator">calcu.</a>
       </li>
 	    <li class="nav-item">               
        <a class="nav-link" href="https://okayresult.com/Login%20Page/"><span class="login_page">Sign In</span></a>
