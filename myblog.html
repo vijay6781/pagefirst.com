@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    #header {
+      background-color: #ffffff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    #content {
+      padding: 20px;
+    }
+
+    #footer {
+      background-color: #ffffff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+  <script>
+    window.addEventListener("DOMContentLoaded", function() {
+      const colors = ["#ff9a9e", "#fad0c4", "#fad0c4", "#fbc2eb", "#a18cd1", "#f8bbd0", "#e1bee7", "#d7ccc8"];
+
+      let colorIndex = 0;
+
+      function changeGradientColor() {
+        const gradientColor = `linear-gradient(135deg, ${colors[colorIndex % colors.length]}, ${colors[(colorIndex + 1) % colors.length]})`;
+        document.body.style.background = gradientColor;
+        colorIndex++;
+      }
+
+      setInterval(changeGradientColor, 5000); // Change gradient color every 5 seconds
+    });
+  </script>
+</head>
+<body>
+  <div id="header">
+    <h1>My Blog</h1>
+  </div>
+  <div id="content">
+    <h2>Blog Post 1</h2>
+    <p>This is the content of the first blog post.</p>
+
+    <h2>Blog Post 2</h2>
+    <p>This is the content of the second blog post.</p>
+
+    <h2>Blog Post 3</h2>
+    <p>This is the content of the third blog post.</p>
+  </div>
+  <div id="footer">
+    <p>&copy; 2023 My Blog. All rights reserved.</p>
+  </div>
+</body>
+</html>
