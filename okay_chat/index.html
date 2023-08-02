@@ -62,7 +62,7 @@ document.querySelector('#message-form').addEventListener('submit', e => {
 	e.preventDefault()
 
 	let message = document.querySelector('#message-input').value
-	db.collection('messages')
+	db.collection('chats')
 	.add({
 		name: name,
 		message: message,
@@ -77,7 +77,7 @@ document.querySelector('#message-form').addEventListener('submit', e => {
 	})
 })
 
-db.collection('messages')
+db.collection('chats')
 .orderBy('date', 'asc')
 .onSnapshot(snapshot => {
 	document.querySelector('#messages').innerHTML = ''
@@ -92,7 +92,7 @@ db.collection('messages')
 })
 
 document.querySelector('#clear').addEventListener('click', () => {
-	db.collection('messages')
+	db.collection('chats')
 	.get()
 	.then(snapshot => {
 		snapshot.forEach(doc => {
