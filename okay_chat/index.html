@@ -96,7 +96,7 @@ document.querySelector('#clear').addEventListener('click', () => {
 	.get()
 	.then(snapshot => {
 		snapshot.forEach(doc => {
-			db.collection('messages').doc(doc.id).delete()
+			db.collection('chats').doc(doc.id).delete()
 			.then(() => {
 				console.log('Document successfully deleted!')
 			})
